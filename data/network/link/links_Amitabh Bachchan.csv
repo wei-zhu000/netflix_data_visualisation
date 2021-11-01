@@ -1,0 +1,1061 @@
+"from","to","target","source"
+"Amitabh Bachchan","Saif Ali Khan",2,1
+"Amitabh Bachchan","Manoj Bajpayee",3,1
+"Amitabh Bachchan","Deepika Padukone",4,1
+"Amitabh Bachchan","Prateik",5,1
+"Amitabh Bachchan","Tanvi Azmi",6,1
+"Amitabh Bachchan","Saurabh Shukla",7,1
+"Amitabh Bachchan","Darshan Jariwala",8,1
+"Amitabh Bachchan","Yashpal Sharma",9,1
+"Amitabh Bachchan","Mukesh Tiwari",158,1
+"Saif Ali Khan","Manoj Bajpayee",3,2
+"Saif Ali Khan","Deepika Padukone",4,2
+"Saif Ali Khan","Prateik",5,2
+"Saif Ali Khan","Tanvi Azmi",6,2
+"Saif Ali Khan","Saurabh Shukla",7,2
+"Saif Ali Khan","Darshan Jariwala",8,2
+"Saif Ali Khan","Yashpal Sharma",9,2
+"Saif Ali Khan","Mukesh Tiwari",158,2
+"Manoj Bajpayee","Deepika Padukone",4,3
+"Manoj Bajpayee","Prateik",5,3
+"Manoj Bajpayee","Tanvi Azmi",6,3
+"Manoj Bajpayee","Saurabh Shukla",7,3
+"Manoj Bajpayee","Darshan Jariwala",8,3
+"Manoj Bajpayee","Yashpal Sharma",9,3
+"Manoj Bajpayee","Mukesh Tiwari",158,3
+"Deepika Padukone","Prateik",5,4
+"Deepika Padukone","Tanvi Azmi",6,4
+"Deepika Padukone","Saurabh Shukla",7,4
+"Deepika Padukone","Darshan Jariwala",8,4
+"Deepika Padukone","Yashpal Sharma",9,4
+"Deepika Padukone","Mukesh Tiwari",158,4
+"Prateik","Tanvi Azmi",6,5
+"Prateik","Saurabh Shukla",7,5
+"Prateik","Darshan Jariwala",8,5
+"Prateik","Yashpal Sharma",9,5
+"Prateik","Mukesh Tiwari",158,5
+"Tanvi Azmi","Saurabh Shukla",7,6
+"Tanvi Azmi","Darshan Jariwala",8,6
+"Tanvi Azmi","Yashpal Sharma",9,6
+"Tanvi Azmi","Mukesh Tiwari",158,6
+"Saurabh Shukla","Darshan Jariwala",8,7
+"Saurabh Shukla","Yashpal Sharma",9,7
+"Saurabh Shukla","Mukesh Tiwari",158,7
+"Darshan Jariwala","Yashpal Sharma",9,8
+"Darshan Jariwala","Mukesh Tiwari",158,8
+"Yashpal Sharma","Mukesh Tiwari",158,9
+"Amitabh Bachchan","Mithun Chakraborty",10,1
+"Amitabh Bachchan","Danny Denzongpa",11,1
+"Amitabh Bachchan","Madhavi",12,1
+"Amitabh Bachchan","Neelam",13,1
+"Amitabh Bachchan","Alok Nath",14,1
+"Amitabh Bachchan","Rohini Hattangadi",15,1
+"Amitabh Bachchan","Tinnu Anand",16,1
+"Amitabh Bachchan","Vikram Gokhale",17,1
+"Amitabh Bachchan","Archana Puran Singh",159,1
+"Mithun Chakraborty","Danny Denzongpa",11,10
+"Mithun Chakraborty","Madhavi",12,10
+"Mithun Chakraborty","Neelam",13,10
+"Mithun Chakraborty","Alok Nath",14,10
+"Mithun Chakraborty","Rohini Hattangadi",15,10
+"Mithun Chakraborty","Tinnu Anand",16,10
+"Mithun Chakraborty","Vikram Gokhale",17,10
+"Mithun Chakraborty","Archana Puran Singh",159,10
+"Danny Denzongpa","Madhavi",12,11
+"Danny Denzongpa","Neelam",13,11
+"Danny Denzongpa","Alok Nath",14,11
+"Danny Denzongpa","Rohini Hattangadi",15,11
+"Danny Denzongpa","Tinnu Anand",16,11
+"Danny Denzongpa","Vikram Gokhale",17,11
+"Danny Denzongpa","Archana Puran Singh",159,11
+"Madhavi","Neelam",13,12
+"Madhavi","Alok Nath",14,12
+"Madhavi","Rohini Hattangadi",15,12
+"Madhavi","Tinnu Anand",16,12
+"Madhavi","Vikram Gokhale",17,12
+"Madhavi","Archana Puran Singh",159,12
+"Neelam","Alok Nath",14,13
+"Neelam","Rohini Hattangadi",15,13
+"Neelam","Tinnu Anand",16,13
+"Neelam","Vikram Gokhale",17,13
+"Neelam","Archana Puran Singh",159,13
+"Alok Nath","Rohini Hattangadi",15,14
+"Alok Nath","Tinnu Anand",16,14
+"Alok Nath","Vikram Gokhale",17,14
+"Alok Nath","Archana Puran Singh",159,14
+"Rohini Hattangadi","Tinnu Anand",16,15
+"Rohini Hattangadi","Vikram Gokhale",17,15
+"Rohini Hattangadi","Archana Puran Singh",159,15
+"Tinnu Anand","Vikram Gokhale",17,16
+"Tinnu Anand","Archana Puran Singh",159,16
+"Vikram Gokhale","Archana Puran Singh",159,17
+"Vinod Khanna","Rishi Kapoor",19,18
+"Vinod Khanna","Amitabh Bachchan",1,18
+"Vinod Khanna","Neetu Singh",20,18
+"Vinod Khanna","Parveen Babi",21,18
+"Vinod Khanna","Shabana Azmi",22,18
+"Vinod Khanna","Nirupa Roy",23,18
+"Vinod Khanna","Pran",62,18
+"Rishi Kapoor","Amitabh Bachchan",1,19
+"Rishi Kapoor","Neetu Singh",20,19
+"Rishi Kapoor","Parveen Babi",21,19
+"Rishi Kapoor","Shabana Azmi",22,19
+"Rishi Kapoor","Nirupa Roy",23,19
+"Rishi Kapoor","Pran",62,19
+"Amitabh Bachchan","Neetu Singh",20,1
+"Amitabh Bachchan","Parveen Babi",21,1
+"Amitabh Bachchan","Shabana Azmi",22,1
+"Amitabh Bachchan","Nirupa Roy",23,1
+"Amitabh Bachchan","Pran",62,1
+"Neetu Singh","Parveen Babi",21,20
+"Neetu Singh","Shabana Azmi",22,20
+"Neetu Singh","Nirupa Roy",23,20
+"Neetu Singh","Pran",62,20
+"Parveen Babi","Shabana Azmi",22,21
+"Parveen Babi","Nirupa Roy",23,21
+"Parveen Babi","Pran",62,21
+"Shabana Azmi","Nirupa Roy",23,22
+"Shabana Azmi","Pran",62,22
+"Nirupa Roy","Pran",62,23
+"Amitabh Bachchan","Taapsee Pannu",24,1
+"Amitabh Bachchan","Amrita Singh",25,1
+"Amitabh Bachchan","Tony Luke",26,1
+"Amitabh Bachchan","Manav Kaul",156,1
+"Taapsee Pannu","Amrita Singh",25,24
+"Taapsee Pannu","Tony Luke",26,24
+"Taapsee Pannu","Manav Kaul",156,24
+"Amrita Singh","Tony Luke",26,25
+"Amrita Singh","Manav Kaul",156,25
+"Tony Luke","Manav Kaul",156,26
+"Amitabh Bachchan","Hema Malini",27,1
+"Amitabh Bachchan","Raveena Tandon",28,1
+"Amitabh Bachchan","Sonu Sood",29,1
+"Amitabh Bachchan","Sonal Chauhan",30,1
+"Amitabh Bachchan","Charmy Kaur",31,1
+"Amitabh Bachchan","Prakash Raj",32,1
+"Amitabh Bachchan","Makrand Deshpande",33,1
+"Amitabh Bachchan","Subbaraju",34,1
+"Amitabh Bachchan","Shawar Ali",35,1
+"Amitabh Bachchan","Rajeev Verma",160,1
+"Hema Malini","Raveena Tandon",28,27
+"Hema Malini","Sonu Sood",29,27
+"Hema Malini","Sonal Chauhan",30,27
+"Hema Malini","Charmy Kaur",31,27
+"Hema Malini","Prakash Raj",32,27
+"Hema Malini","Makrand Deshpande",33,27
+"Hema Malini","Subbaraju",34,27
+"Hema Malini","Shawar Ali",35,27
+"Hema Malini","Rajeev Verma",160,27
+"Raveena Tandon","Sonu Sood",29,28
+"Raveena Tandon","Sonal Chauhan",30,28
+"Raveena Tandon","Charmy Kaur",31,28
+"Raveena Tandon","Prakash Raj",32,28
+"Raveena Tandon","Makrand Deshpande",33,28
+"Raveena Tandon","Subbaraju",34,28
+"Raveena Tandon","Shawar Ali",35,28
+"Raveena Tandon","Rajeev Verma",160,28
+"Sonu Sood","Sonal Chauhan",30,29
+"Sonu Sood","Charmy Kaur",31,29
+"Sonu Sood","Prakash Raj",32,29
+"Sonu Sood","Makrand Deshpande",33,29
+"Sonu Sood","Subbaraju",34,29
+"Sonu Sood","Shawar Ali",35,29
+"Sonu Sood","Rajeev Verma",160,29
+"Sonal Chauhan","Charmy Kaur",31,30
+"Sonal Chauhan","Prakash Raj",32,30
+"Sonal Chauhan","Makrand Deshpande",33,30
+"Sonal Chauhan","Subbaraju",34,30
+"Sonal Chauhan","Shawar Ali",35,30
+"Sonal Chauhan","Rajeev Verma",160,30
+"Charmy Kaur","Prakash Raj",32,31
+"Charmy Kaur","Makrand Deshpande",33,31
+"Charmy Kaur","Subbaraju",34,31
+"Charmy Kaur","Shawar Ali",35,31
+"Charmy Kaur","Rajeev Verma",160,31
+"Prakash Raj","Makrand Deshpande",33,32
+"Prakash Raj","Subbaraju",34,32
+"Prakash Raj","Shawar Ali",35,32
+"Prakash Raj","Rajeev Verma",160,32
+"Makrand Deshpande","Subbaraju",34,33
+"Makrand Deshpande","Shawar Ali",35,33
+"Makrand Deshpande","Rajeev Verma",160,33
+"Subbaraju","Shawar Ali",35,34
+"Subbaraju","Rajeev Verma",160,34
+"Shawar Ali","Rajeev Verma",160,35
+"Rani Mukerji","Randeep Hooda",37,36
+"Rani Mukerji","Saqib Saleem",38,36
+"Rani Mukerji","Nawazuddin Siddiqui",39,36
+"Rani Mukerji","Sadashiv Amrapurkar",40,36
+"Rani Mukerji","Amitabh Bachchan",1,36
+"Rani Mukerji","Ranvir Shorey",41,36
+"Rani Mukerji","Katrina Kaif",42,36
+"Rani Mukerji","Diana Penty",161,36
+"Randeep Hooda","Saqib Saleem",38,37
+"Randeep Hooda","Nawazuddin Siddiqui",39,37
+"Randeep Hooda","Sadashiv Amrapurkar",40,37
+"Randeep Hooda","Amitabh Bachchan",1,37
+"Randeep Hooda","Ranvir Shorey",41,37
+"Randeep Hooda","Katrina Kaif",42,37
+"Randeep Hooda","Diana Penty",161,37
+"Saqib Saleem","Nawazuddin Siddiqui",39,38
+"Saqib Saleem","Sadashiv Amrapurkar",40,38
+"Saqib Saleem","Amitabh Bachchan",1,38
+"Saqib Saleem","Ranvir Shorey",41,38
+"Saqib Saleem","Katrina Kaif",42,38
+"Saqib Saleem","Diana Penty",161,38
+"Nawazuddin Siddiqui","Sadashiv Amrapurkar",40,39
+"Nawazuddin Siddiqui","Amitabh Bachchan",1,39
+"Nawazuddin Siddiqui","Ranvir Shorey",41,39
+"Nawazuddin Siddiqui","Katrina Kaif",42,39
+"Nawazuddin Siddiqui","Diana Penty",161,39
+"Sadashiv Amrapurkar","Amitabh Bachchan",1,40
+"Sadashiv Amrapurkar","Ranvir Shorey",41,40
+"Sadashiv Amrapurkar","Katrina Kaif",42,40
+"Sadashiv Amrapurkar","Diana Penty",161,40
+"Amitabh Bachchan","Ranvir Shorey",41,1
+"Amitabh Bachchan","Katrina Kaif",42,1
+"Amitabh Bachchan","Diana Penty",161,1
+"Ranvir Shorey","Katrina Kaif",42,41
+"Ranvir Shorey","Diana Penty",161,41
+"Katrina Kaif","Diana Penty",161,42
+"Amitabh Bachchan","Gulshan Grover",43,1
+"Amitabh Bachchan","Jackie Shroff",44,1
+"Amitabh Bachchan","Javed Jaffrey",45,1
+"Amitabh Bachchan","Katrina Kaif",42,1
+"Amitabh Bachchan","Madhu Sapre",46,1
+"Amitabh Bachchan","Padma Lakshmi",47,1
+"Amitabh Bachchan","Seema Biswas",48,1
+"Amitabh Bachchan","Zeenat Aman",49,1
+"Amitabh Bachchan","Boman Irani",162,1
+"Gulshan Grover","Jackie Shroff",44,43
+"Gulshan Grover","Javed Jaffrey",45,43
+"Gulshan Grover","Katrina Kaif",42,43
+"Gulshan Grover","Madhu Sapre",46,43
+"Gulshan Grover","Padma Lakshmi",47,43
+"Gulshan Grover","Seema Biswas",48,43
+"Gulshan Grover","Zeenat Aman",49,43
+"Gulshan Grover","Boman Irani",162,43
+"Jackie Shroff","Javed Jaffrey",45,44
+"Jackie Shroff","Katrina Kaif",42,44
+"Jackie Shroff","Madhu Sapre",46,44
+"Jackie Shroff","Padma Lakshmi",47,44
+"Jackie Shroff","Seema Biswas",48,44
+"Jackie Shroff","Zeenat Aman",49,44
+"Jackie Shroff","Boman Irani",162,44
+"Javed Jaffrey","Katrina Kaif",42,45
+"Javed Jaffrey","Madhu Sapre",46,45
+"Javed Jaffrey","Padma Lakshmi",47,45
+"Javed Jaffrey","Seema Biswas",48,45
+"Javed Jaffrey","Zeenat Aman",49,45
+"Javed Jaffrey","Boman Irani",162,45
+"Katrina Kaif","Madhu Sapre",46,42
+"Katrina Kaif","Padma Lakshmi",47,42
+"Katrina Kaif","Seema Biswas",48,42
+"Katrina Kaif","Zeenat Aman",49,42
+"Katrina Kaif","Boman Irani",162,42
+"Madhu Sapre","Padma Lakshmi",47,46
+"Madhu Sapre","Seema Biswas",48,46
+"Madhu Sapre","Zeenat Aman",49,46
+"Madhu Sapre","Boman Irani",162,46
+"Padma Lakshmi","Seema Biswas",48,47
+"Padma Lakshmi","Zeenat Aman",49,47
+"Padma Lakshmi","Boman Irani",162,47
+"Seema Biswas","Zeenat Aman",49,48
+"Seema Biswas","Boman Irani",162,48
+"Zeenat Aman","Boman Irani",162,49
+"Dharmendra","Sharmila Tagore",51,50
+"Dharmendra","Amitabh Bachchan",1,50
+"Dharmendra","Jaya Bhaduri",52,50
+"Dharmendra","Om Prakash",53,50
+"Dharmendra","Asrani",54,50
+"Dharmendra","David Abraham",55,50
+"Dharmendra","Usha Kiran",56,50
+"Dharmendra","Lily Chakravarty",57,50
+"Dharmendra","Keshto Mukherjee",163,50
+"Sharmila Tagore","Amitabh Bachchan",1,51
+"Sharmila Tagore","Jaya Bhaduri",52,51
+"Sharmila Tagore","Om Prakash",53,51
+"Sharmila Tagore","Asrani",54,51
+"Sharmila Tagore","David Abraham",55,51
+"Sharmila Tagore","Usha Kiran",56,51
+"Sharmila Tagore","Lily Chakravarty",57,51
+"Sharmila Tagore","Keshto Mukherjee",163,51
+"Amitabh Bachchan","Jaya Bhaduri",52,1
+"Amitabh Bachchan","Om Prakash",53,1
+"Amitabh Bachchan","Asrani",54,1
+"Amitabh Bachchan","David Abraham",55,1
+"Amitabh Bachchan","Usha Kiran",56,1
+"Amitabh Bachchan","Lily Chakravarty",57,1
+"Amitabh Bachchan","Keshto Mukherjee",163,1
+"Jaya Bhaduri","Om Prakash",53,52
+"Jaya Bhaduri","Asrani",54,52
+"Jaya Bhaduri","David Abraham",55,52
+"Jaya Bhaduri","Usha Kiran",56,52
+"Jaya Bhaduri","Lily Chakravarty",57,52
+"Jaya Bhaduri","Keshto Mukherjee",163,52
+"Om Prakash","Asrani",54,53
+"Om Prakash","David Abraham",55,53
+"Om Prakash","Usha Kiran",56,53
+"Om Prakash","Lily Chakravarty",57,53
+"Om Prakash","Keshto Mukherjee",163,53
+"Asrani","David Abraham",55,54
+"Asrani","Usha Kiran",56,54
+"Asrani","Lily Chakravarty",57,54
+"Asrani","Keshto Mukherjee",163,54
+"David Abraham","Usha Kiran",56,55
+"David Abraham","Lily Chakravarty",57,55
+"David Abraham","Keshto Mukherjee",163,55
+"Usha Kiran","Lily Chakravarty",57,56
+"Usha Kiran","Keshto Mukherjee",163,56
+"Lily Chakravarty","Keshto Mukherjee",163,57
+"Amitabh Bachchan","Shatrughan Sinha",58,1
+"Amitabh Bachchan","Zeenat Aman",49,1
+"Amitabh Bachchan","Prem Chopra",59,1
+"Amitabh Bachchan","Amrish Puri",60,1
+"Amitabh Bachchan","Helen",61,1
+"Amitabh Bachchan","Pran",62,1
+"Amitabh Bachchan","Gajanan Jagirdar",63,1
+"Amitabh Bachchan","Sajjan",64,1
+"Amitabh Bachchan","Iftekhar",152,1
+"Shatrughan Sinha","Zeenat Aman",49,58
+"Shatrughan Sinha","Prem Chopra",59,58
+"Shatrughan Sinha","Amrish Puri",60,58
+"Shatrughan Sinha","Helen",61,58
+"Shatrughan Sinha","Pran",62,58
+"Shatrughan Sinha","Gajanan Jagirdar",63,58
+"Shatrughan Sinha","Sajjan",64,58
+"Shatrughan Sinha","Iftekhar",152,58
+"Zeenat Aman","Prem Chopra",59,49
+"Zeenat Aman","Amrish Puri",60,49
+"Zeenat Aman","Helen",61,49
+"Zeenat Aman","Pran",62,49
+"Zeenat Aman","Gajanan Jagirdar",63,49
+"Zeenat Aman","Sajjan",64,49
+"Zeenat Aman","Iftekhar",152,49
+"Prem Chopra","Amrish Puri",60,59
+"Prem Chopra","Helen",61,59
+"Prem Chopra","Pran",62,59
+"Prem Chopra","Gajanan Jagirdar",63,59
+"Prem Chopra","Sajjan",64,59
+"Prem Chopra","Iftekhar",152,59
+"Amrish Puri","Helen",61,60
+"Amrish Puri","Pran",62,60
+"Amrish Puri","Gajanan Jagirdar",63,60
+"Amrish Puri","Sajjan",64,60
+"Amrish Puri","Iftekhar",152,60
+"Helen","Pran",62,61
+"Helen","Gajanan Jagirdar",63,61
+"Helen","Sajjan",64,61
+"Helen","Iftekhar",152,61
+"Pran","Gajanan Jagirdar",63,62
+"Pran","Sajjan",64,62
+"Pran","Iftekhar",152,62
+"Gajanan Jagirdar","Sajjan",64,63
+"Gajanan Jagirdar","Iftekhar",152,63
+"Sajjan","Iftekhar",152,64
+"Amitabh Bachchan","Vinod Khanna",18,1
+"Amitabh Bachchan","Saira Banu",65,1
+"Amitabh Bachchan","Sulakshana Pandit",66,1
+"Amitabh Bachchan","Shreeram Lagoo",67,1
+"Amitabh Bachchan","Pinchoo Kapoor",68,1
+"Amitabh Bachchan","P. Jairaj",69,1
+"Amitabh Bachchan","Yunus Parvez",164,1
+"Vinod Khanna","Saira Banu",65,18
+"Vinod Khanna","Sulakshana Pandit",66,18
+"Vinod Khanna","Shreeram Lagoo",67,18
+"Vinod Khanna","Pinchoo Kapoor",68,18
+"Vinod Khanna","P. Jairaj",69,18
+"Vinod Khanna","Yunus Parvez",164,18
+"Saira Banu","Sulakshana Pandit",66,65
+"Saira Banu","Shreeram Lagoo",67,65
+"Saira Banu","Pinchoo Kapoor",68,65
+"Saira Banu","P. Jairaj",69,65
+"Saira Banu","Yunus Parvez",164,65
+"Sulakshana Pandit","Shreeram Lagoo",67,66
+"Sulakshana Pandit","Pinchoo Kapoor",68,66
+"Sulakshana Pandit","P. Jairaj",69,66
+"Sulakshana Pandit","Yunus Parvez",164,66
+"Shreeram Lagoo","Pinchoo Kapoor",68,67
+"Shreeram Lagoo","P. Jairaj",69,67
+"Shreeram Lagoo","Yunus Parvez",164,67
+"Pinchoo Kapoor","P. Jairaj",69,68
+"Pinchoo Kapoor","Yunus Parvez",164,68
+"P. Jairaj","Yunus Parvez",164,69
+"Amitabh Bachchan","Asha Parekh",70,1
+"Amitabh Bachchan","Parveen Babi",21,1
+"Amitabh Bachchan","Amjad Khan",71,1
+"Amitabh Bachchan","Pran",62,1
+"Amitabh Bachchan","K.N. Singh",72,1
+"Amitabh Bachchan","Sajjan",64,1
+"Amitabh Bachchan","Murad",73,1
+"Amitabh Bachchan","Kader Khan",74,1
+"Amitabh Bachchan","Jagdeep",165,1
+"Asha Parekh","Parveen Babi",21,70
+"Asha Parekh","Amjad Khan",71,70
+"Asha Parekh","Pran",62,70
+"Asha Parekh","K.N. Singh",72,70
+"Asha Parekh","Sajjan",64,70
+"Asha Parekh","Murad",73,70
+"Asha Parekh","Kader Khan",74,70
+"Asha Parekh","Jagdeep",165,70
+"Parveen Babi","Amjad Khan",71,21
+"Parveen Babi","Pran",62,21
+"Parveen Babi","K.N. Singh",72,21
+"Parveen Babi","Sajjan",64,21
+"Parveen Babi","Murad",73,21
+"Parveen Babi","Kader Khan",74,21
+"Parveen Babi","Jagdeep",165,21
+"Amjad Khan","Pran",62,71
+"Amjad Khan","K.N. Singh",72,71
+"Amjad Khan","Sajjan",64,71
+"Amjad Khan","Murad",73,71
+"Amjad Khan","Kader Khan",74,71
+"Amjad Khan","Jagdeep",165,71
+"Pran","K.N. Singh",72,62
+"Pran","Sajjan",64,62
+"Pran","Murad",73,62
+"Pran","Kader Khan",74,62
+"Pran","Jagdeep",165,62
+"K.N. Singh","Sajjan",64,72
+"K.N. Singh","Murad",73,72
+"K.N. Singh","Kader Khan",74,72
+"K.N. Singh","Jagdeep",165,72
+"Sajjan","Murad",73,64
+"Sajjan","Kader Khan",74,64
+"Sajjan","Jagdeep",165,64
+"Murad","Kader Khan",74,73
+"Murad","Jagdeep",165,73
+"Kader Khan","Jagdeep",165,74
+"Amitabh Bachchan","Shah Rukh Khan",75,1
+"Amitabh Bachchan","Abhishek Bachchan",76,1
+"Amitabh Bachchan","Rani Mukerji",36,1
+"Amitabh Bachchan","Preity Zinta",77,1
+"Amitabh Bachchan","Kiron Kher",78,1
+"Amitabh Bachchan","Arjun Rampal",125,1
+"Shah Rukh Khan","Abhishek Bachchan",76,75
+"Shah Rukh Khan","Rani Mukerji",36,75
+"Shah Rukh Khan","Preity Zinta",77,75
+"Shah Rukh Khan","Kiron Kher",78,75
+"Shah Rukh Khan","Arjun Rampal",125,75
+"Abhishek Bachchan","Rani Mukerji",36,76
+"Abhishek Bachchan","Preity Zinta",77,76
+"Abhishek Bachchan","Kiron Kher",78,76
+"Abhishek Bachchan","Arjun Rampal",125,76
+"Rani Mukerji","Preity Zinta",77,36
+"Rani Mukerji","Kiron Kher",78,36
+"Rani Mukerji","Arjun Rampal",125,36
+"Preity Zinta","Kiron Kher",78,77
+"Preity Zinta","Arjun Rampal",125,77
+"Kiron Kher","Arjun Rampal",125,78
+"Amitabh Bachchan","Jaya Bhaduri",52,1
+"Amitabh Bachchan","Shah Rukh Khan",75,1
+"Amitabh Bachchan","Kajol",79,1
+"Amitabh Bachchan","Hrithik Roshan",80,1
+"Amitabh Bachchan","Kareena Kapoor",81,1
+"Amitabh Bachchan","Rani Mukerji",36,1
+"Amitabh Bachchan","Farida Jalal",82,1
+"Amitabh Bachchan","Himani Shivpuri",83,1
+"Amitabh Bachchan","Alok Nath",14,1
+"Jaya Bhaduri","Shah Rukh Khan",75,52
+"Jaya Bhaduri","Kajol",79,52
+"Jaya Bhaduri","Hrithik Roshan",80,52
+"Jaya Bhaduri","Kareena Kapoor",81,52
+"Jaya Bhaduri","Rani Mukerji",36,52
+"Jaya Bhaduri","Farida Jalal",82,52
+"Jaya Bhaduri","Himani Shivpuri",83,52
+"Jaya Bhaduri","Alok Nath",14,52
+"Shah Rukh Khan","Kajol",79,75
+"Shah Rukh Khan","Hrithik Roshan",80,75
+"Shah Rukh Khan","Kareena Kapoor",81,75
+"Shah Rukh Khan","Rani Mukerji",36,75
+"Shah Rukh Khan","Farida Jalal",82,75
+"Shah Rukh Khan","Himani Shivpuri",83,75
+"Shah Rukh Khan","Alok Nath",14,75
+"Kajol","Hrithik Roshan",80,79
+"Kajol","Kareena Kapoor",81,79
+"Kajol","Rani Mukerji",36,79
+"Kajol","Farida Jalal",82,79
+"Kajol","Himani Shivpuri",83,79
+"Kajol","Alok Nath",14,79
+"Hrithik Roshan","Kareena Kapoor",81,80
+"Hrithik Roshan","Rani Mukerji",36,80
+"Hrithik Roshan","Farida Jalal",82,80
+"Hrithik Roshan","Himani Shivpuri",83,80
+"Hrithik Roshan","Alok Nath",14,80
+"Kareena Kapoor","Rani Mukerji",36,81
+"Kareena Kapoor","Farida Jalal",82,81
+"Kareena Kapoor","Himani Shivpuri",83,81
+"Kareena Kapoor","Alok Nath",14,81
+"Rani Mukerji","Farida Jalal",82,36
+"Rani Mukerji","Himani Shivpuri",83,36
+"Rani Mukerji","Alok Nath",14,36
+"Farida Jalal","Himani Shivpuri",83,82
+"Farida Jalal","Alok Nath",14,82
+"Himani Shivpuri","Alok Nath",14,83
+"Fardeen Khan","Kareena Kapoor",81,84
+"Fardeen Khan","Amrish Puri",60,84
+"Fardeen Khan","Navin Nischol",85,84
+"Fardeen Khan","Beena",86,84
+"Fardeen Khan","Anup Soni",87,84
+"Fardeen Khan","Johnny Lever",88,84
+"Fardeen Khan","Sharat Saxena",89,84
+"Fardeen Khan","Amitabh Bachchan",1,84
+"Fardeen Khan","Sakshi Shivanand",166,84
+"Kareena Kapoor","Amrish Puri",60,81
+"Kareena Kapoor","Navin Nischol",85,81
+"Kareena Kapoor","Beena",86,81
+"Kareena Kapoor","Anup Soni",87,81
+"Kareena Kapoor","Johnny Lever",88,81
+"Kareena Kapoor","Sharat Saxena",89,81
+"Kareena Kapoor","Amitabh Bachchan",1,81
+"Kareena Kapoor","Sakshi Shivanand",166,81
+"Amrish Puri","Navin Nischol",85,60
+"Amrish Puri","Beena",86,60
+"Amrish Puri","Anup Soni",87,60
+"Amrish Puri","Johnny Lever",88,60
+"Amrish Puri","Sharat Saxena",89,60
+"Amrish Puri","Amitabh Bachchan",1,60
+"Amrish Puri","Sakshi Shivanand",166,60
+"Navin Nischol","Beena",86,85
+"Navin Nischol","Anup Soni",87,85
+"Navin Nischol","Johnny Lever",88,85
+"Navin Nischol","Sharat Saxena",89,85
+"Navin Nischol","Amitabh Bachchan",1,85
+"Navin Nischol","Sakshi Shivanand",166,85
+"Beena","Anup Soni",87,86
+"Beena","Johnny Lever",88,86
+"Beena","Sharat Saxena",89,86
+"Beena","Amitabh Bachchan",1,86
+"Beena","Sakshi Shivanand",166,86
+"Anup Soni","Johnny Lever",88,87
+"Anup Soni","Sharat Saxena",89,87
+"Anup Soni","Amitabh Bachchan",1,87
+"Anup Soni","Sakshi Shivanand",166,87
+"Johnny Lever","Sharat Saxena",89,88
+"Johnny Lever","Amitabh Bachchan",1,88
+"Johnny Lever","Sakshi Shivanand",166,88
+"Sharat Saxena","Amitabh Bachchan",1,89
+"Sharat Saxena","Sakshi Shivanand",166,89
+"Amitabh Bachchan","Sakshi Shivanand",166,1
+"Aishwarya Rai Bachchan","Vivek Oberoi",91,90
+"Aishwarya Rai Bachchan","Amitabh Bachchan",1,90
+"Aishwarya Rai Bachchan","Om Puri",92,90
+"Aishwarya Rai Bachchan","Rati Agnihotri",93,90
+"Aishwarya Rai Bachchan","Sunil Shetty",94,90
+"Aishwarya Rai Bachchan","Tinnu Anand",16,90
+"Aishwarya Rai Bachchan","Rahul Singh",167,90
+"Vivek Oberoi","Amitabh Bachchan",1,91
+"Vivek Oberoi","Om Puri",92,91
+"Vivek Oberoi","Rati Agnihotri",93,91
+"Vivek Oberoi","Sunil Shetty",94,91
+"Vivek Oberoi","Tinnu Anand",16,91
+"Vivek Oberoi","Rahul Singh",167,91
+"Amitabh Bachchan","Om Puri",92,1
+"Amitabh Bachchan","Rati Agnihotri",93,1
+"Amitabh Bachchan","Sunil Shetty",94,1
+"Amitabh Bachchan","Tinnu Anand",16,1
+"Amitabh Bachchan","Rahul Singh",167,1
+"Om Puri","Rati Agnihotri",93,92
+"Om Puri","Sunil Shetty",94,92
+"Om Puri","Tinnu Anand",16,92
+"Om Puri","Rahul Singh",167,92
+"Rati Agnihotri","Sunil Shetty",94,93
+"Rati Agnihotri","Tinnu Anand",16,93
+"Rati Agnihotri","Rahul Singh",167,93
+"Sunil Shetty","Tinnu Anand",16,94
+"Sunil Shetty","Rahul Singh",167,94
+"Tinnu Anand","Rahul Singh",167,16
+"Amitabh Bachchan","Hrithik Roshan",80,1
+"Amitabh Bachchan","Preity Zinta",77,1
+"Amitabh Bachchan","Om Puri",92,1
+"Amitabh Bachchan","Sharad Kapoor",95,1
+"Amitabh Bachchan","Rajendranath Zutshi",96,1
+"Amitabh Bachchan","Sushant Singh",97,1
+"Amitabh Bachchan","Prashant Chainani",98,1
+"Amitabh Bachchan","Shakeel Khan",99,1
+"Amitabh Bachchan","Ranvir Shorey",41,1
+"Hrithik Roshan","Preity Zinta",77,80
+"Hrithik Roshan","Om Puri",92,80
+"Hrithik Roshan","Sharad Kapoor",95,80
+"Hrithik Roshan","Rajendranath Zutshi",96,80
+"Hrithik Roshan","Sushant Singh",97,80
+"Hrithik Roshan","Prashant Chainani",98,80
+"Hrithik Roshan","Shakeel Khan",99,80
+"Hrithik Roshan","Ranvir Shorey",41,80
+"Preity Zinta","Om Puri",92,77
+"Preity Zinta","Sharad Kapoor",95,77
+"Preity Zinta","Rajendranath Zutshi",96,77
+"Preity Zinta","Sushant Singh",97,77
+"Preity Zinta","Prashant Chainani",98,77
+"Preity Zinta","Shakeel Khan",99,77
+"Preity Zinta","Ranvir Shorey",41,77
+"Om Puri","Sharad Kapoor",95,92
+"Om Puri","Rajendranath Zutshi",96,92
+"Om Puri","Sushant Singh",97,92
+"Om Puri","Prashant Chainani",98,92
+"Om Puri","Shakeel Khan",99,92
+"Om Puri","Ranvir Shorey",41,92
+"Sharad Kapoor","Rajendranath Zutshi",96,95
+"Sharad Kapoor","Sushant Singh",97,95
+"Sharad Kapoor","Prashant Chainani",98,95
+"Sharad Kapoor","Shakeel Khan",99,95
+"Sharad Kapoor","Ranvir Shorey",41,95
+"Rajendranath Zutshi","Sushant Singh",97,96
+"Rajendranath Zutshi","Prashant Chainani",98,96
+"Rajendranath Zutshi","Shakeel Khan",99,96
+"Rajendranath Zutshi","Ranvir Shorey",41,96
+"Sushant Singh","Prashant Chainani",98,97
+"Sushant Singh","Shakeel Khan",99,97
+"Sushant Singh","Ranvir Shorey",41,97
+"Prashant Chainani","Shakeel Khan",99,98
+"Prashant Chainani","Ranvir Shorey",41,98
+"Shakeel Khan","Ranvir Shorey",41,99
+"Amitabh Bachchan","Ajay Devgn",100,1
+"Amitabh Bachchan","Vidya Balan",101,1
+"Amitabh Bachchan","Shatrughan Sinha",58,1
+"Amitabh Bachchan","Sunny Deol",102,1
+"Amitabh Bachchan","Anil Kapoor",103,1
+"Amitabh Bachchan","Manoj Bajpayee",3,1
+"Amitabh Bachchan","Jackie Shroff",44,1
+"Amitabh Bachchan","Anupam Kher",104,1
+"Amitabh Bachchan","Deepti Naval",168,1
+"Ajay Devgn","Vidya Balan",101,100
+"Ajay Devgn","Shatrughan Sinha",58,100
+"Ajay Devgn","Sunny Deol",102,100
+"Ajay Devgn","Anil Kapoor",103,100
+"Ajay Devgn","Manoj Bajpayee",3,100
+"Ajay Devgn","Jackie Shroff",44,100
+"Ajay Devgn","Anupam Kher",104,100
+"Ajay Devgn","Deepti Naval",168,100
+"Vidya Balan","Shatrughan Sinha",58,101
+"Vidya Balan","Sunny Deol",102,101
+"Vidya Balan","Anil Kapoor",103,101
+"Vidya Balan","Manoj Bajpayee",3,101
+"Vidya Balan","Jackie Shroff",44,101
+"Vidya Balan","Anupam Kher",104,101
+"Vidya Balan","Deepti Naval",168,101
+"Shatrughan Sinha","Sunny Deol",102,58
+"Shatrughan Sinha","Anil Kapoor",103,58
+"Shatrughan Sinha","Manoj Bajpayee",3,58
+"Shatrughan Sinha","Jackie Shroff",44,58
+"Shatrughan Sinha","Anupam Kher",104,58
+"Shatrughan Sinha","Deepti Naval",168,58
+"Sunny Deol","Anil Kapoor",103,102
+"Sunny Deol","Manoj Bajpayee",3,102
+"Sunny Deol","Jackie Shroff",44,102
+"Sunny Deol","Anupam Kher",104,102
+"Sunny Deol","Deepti Naval",168,102
+"Anil Kapoor","Manoj Bajpayee",3,103
+"Anil Kapoor","Jackie Shroff",44,103
+"Anil Kapoor","Anupam Kher",104,103
+"Anil Kapoor","Deepti Naval",168,103
+"Manoj Bajpayee","Jackie Shroff",44,3
+"Manoj Bajpayee","Anupam Kher",104,3
+"Manoj Bajpayee","Deepti Naval",168,3
+"Jackie Shroff","Anupam Kher",104,44
+"Jackie Shroff","Deepti Naval",168,44
+"Anupam Kher","Deepti Naval",168,104
+"Amitabh Bachchan","Shashi Kapoor",105,1
+"Amitabh Bachchan","Parveen Babi",21,1
+"Amitabh Bachchan","Smita Patil",106,1
+"Amitabh Bachchan","Waheeda Rehman",107,1
+"Amitabh Bachchan","Om Prakash",53,1
+"Amitabh Bachchan","Ranjeet",108,1
+"Amitabh Bachchan","Satyendra Kapoor",169,1
+"Shashi Kapoor","Parveen Babi",21,105
+"Shashi Kapoor","Smita Patil",106,105
+"Shashi Kapoor","Waheeda Rehman",107,105
+"Shashi Kapoor","Om Prakash",53,105
+"Shashi Kapoor","Ranjeet",108,105
+"Shashi Kapoor","Satyendra Kapoor",169,105
+"Parveen Babi","Smita Patil",106,21
+"Parveen Babi","Waheeda Rehman",107,21
+"Parveen Babi","Om Prakash",53,21
+"Parveen Babi","Ranjeet",108,21
+"Parveen Babi","Satyendra Kapoor",169,21
+"Smita Patil","Waheeda Rehman",107,106
+"Smita Patil","Om Prakash",53,106
+"Smita Patil","Ranjeet",108,106
+"Smita Patil","Satyendra Kapoor",169,106
+"Waheeda Rehman","Om Prakash",53,107
+"Waheeda Rehman","Ranjeet",108,107
+"Waheeda Rehman","Satyendra Kapoor",169,107
+"Om Prakash","Ranjeet",108,53
+"Om Prakash","Satyendra Kapoor",169,53
+"Ranjeet","Satyendra Kapoor",169,108
+"Shah Rukh Khan","Rani Mukerji",36,75
+"Shah Rukh Khan","Anupam Kher",104,75
+"Shah Rukh Khan","Dilip Prabhavalkar",109,75
+"Shah Rukh Khan","Amitabh Bachchan",1,75
+"Shah Rukh Khan","Juhi Chawla",110,75
+"Shah Rukh Khan","Nina Kulkarni",111,75
+"Shah Rukh Khan","Rajpal Yadav",170,75
+"Rani Mukerji","Anupam Kher",104,36
+"Rani Mukerji","Dilip Prabhavalkar",109,36
+"Rani Mukerji","Amitabh Bachchan",1,36
+"Rani Mukerji","Juhi Chawla",110,36
+"Rani Mukerji","Nina Kulkarni",111,36
+"Rani Mukerji","Rajpal Yadav",170,36
+"Anupam Kher","Dilip Prabhavalkar",109,104
+"Anupam Kher","Amitabh Bachchan",1,104
+"Anupam Kher","Juhi Chawla",110,104
+"Anupam Kher","Nina Kulkarni",111,104
+"Anupam Kher","Rajpal Yadav",170,104
+"Dilip Prabhavalkar","Amitabh Bachchan",1,109
+"Dilip Prabhavalkar","Juhi Chawla",110,109
+"Dilip Prabhavalkar","Nina Kulkarni",111,109
+"Dilip Prabhavalkar","Rajpal Yadav",170,109
+"Amitabh Bachchan","Juhi Chawla",110,1
+"Amitabh Bachchan","Nina Kulkarni",111,1
+"Amitabh Bachchan","Rajpal Yadav",170,1
+"Juhi Chawla","Nina Kulkarni",111,110
+"Juhi Chawla","Rajpal Yadav",170,110
+"Nina Kulkarni","Rajpal Yadav",170,111
+"Tapsee Pannu","Kirti Kulhari",113,112
+"Tapsee Pannu","Andrea Tariang",114,112
+"Tapsee Pannu","Amitabh Bachchan",1,112
+"Tapsee Pannu","Piyush Mishra",115,112
+"Tapsee Pannu","Angad Bedi",116,112
+"Tapsee Pannu","Vijay Varma",117,112
+"Tapsee Pannu","Raashul Tandon",118,112
+"Tapsee Pannu","Tushar Pandey",119,112
+"Tapsee Pannu","Dhritiman Chatterjee",120,112
+"Tapsee Pannu","Mamata Shankar",171,112
+"Kirti Kulhari","Andrea Tariang",114,113
+"Kirti Kulhari","Amitabh Bachchan",1,113
+"Kirti Kulhari","Piyush Mishra",115,113
+"Kirti Kulhari","Angad Bedi",116,113
+"Kirti Kulhari","Vijay Varma",117,113
+"Kirti Kulhari","Raashul Tandon",118,113
+"Kirti Kulhari","Tushar Pandey",119,113
+"Kirti Kulhari","Dhritiman Chatterjee",120,113
+"Kirti Kulhari","Mamata Shankar",171,113
+"Andrea Tariang","Amitabh Bachchan",1,114
+"Andrea Tariang","Piyush Mishra",115,114
+"Andrea Tariang","Angad Bedi",116,114
+"Andrea Tariang","Vijay Varma",117,114
+"Andrea Tariang","Raashul Tandon",118,114
+"Andrea Tariang","Tushar Pandey",119,114
+"Andrea Tariang","Dhritiman Chatterjee",120,114
+"Andrea Tariang","Mamata Shankar",171,114
+"Amitabh Bachchan","Piyush Mishra",115,1
+"Amitabh Bachchan","Angad Bedi",116,1
+"Amitabh Bachchan","Vijay Varma",117,1
+"Amitabh Bachchan","Raashul Tandon",118,1
+"Amitabh Bachchan","Tushar Pandey",119,1
+"Amitabh Bachchan","Dhritiman Chatterjee",120,1
+"Amitabh Bachchan","Mamata Shankar",171,1
+"Piyush Mishra","Angad Bedi",116,115
+"Piyush Mishra","Vijay Varma",117,115
+"Piyush Mishra","Raashul Tandon",118,115
+"Piyush Mishra","Tushar Pandey",119,115
+"Piyush Mishra","Dhritiman Chatterjee",120,115
+"Piyush Mishra","Mamata Shankar",171,115
+"Angad Bedi","Vijay Varma",117,116
+"Angad Bedi","Raashul Tandon",118,116
+"Angad Bedi","Tushar Pandey",119,116
+"Angad Bedi","Dhritiman Chatterjee",120,116
+"Angad Bedi","Mamata Shankar",171,116
+"Vijay Varma","Raashul Tandon",118,117
+"Vijay Varma","Tushar Pandey",119,117
+"Vijay Varma","Dhritiman Chatterjee",120,117
+"Vijay Varma","Mamata Shankar",171,117
+"Raashul Tandon","Tushar Pandey",119,118
+"Raashul Tandon","Dhritiman Chatterjee",120,118
+"Raashul Tandon","Mamata Shankar",171,118
+"Tushar Pandey","Dhritiman Chatterjee",120,119
+"Tushar Pandey","Mamata Shankar",171,119
+"Dhritiman Chatterjee","Mamata Shankar",171,120
+"Amitabh Bachchan","Hema Malini",27,1
+"Amitabh Bachchan","Amjad Khan",71,1
+"Amitabh Bachchan","Sachin",121,1
+"Amitabh Bachchan","Shakti Kapoor",122,1
+"Amitabh Bachchan","Ranjeeta Kaur",123,1
+"Amitabh Bachchan","Paintal",124,1
+"Amitabh Bachchan","Ranjeet",108,1
+"Hema Malini","Amjad Khan",71,27
+"Hema Malini","Sachin",121,27
+"Hema Malini","Shakti Kapoor",122,27
+"Hema Malini","Ranjeeta Kaur",123,27
+"Hema Malini","Paintal",124,27
+"Hema Malini","Ranjeet",108,27
+"Amjad Khan","Sachin",121,71
+"Amjad Khan","Shakti Kapoor",122,71
+"Amjad Khan","Ranjeeta Kaur",123,71
+"Amjad Khan","Paintal",124,71
+"Amjad Khan","Ranjeet",108,71
+"Sachin","Shakti Kapoor",122,121
+"Sachin","Ranjeeta Kaur",123,121
+"Sachin","Paintal",124,121
+"Sachin","Ranjeet",108,121
+"Shakti Kapoor","Ranjeeta Kaur",123,122
+"Shakti Kapoor","Paintal",124,122
+"Shakti Kapoor","Ranjeet",108,122
+"Ranjeeta Kaur","Paintal",124,123
+"Ranjeeta Kaur","Ranjeet",108,123
+"Paintal","Ranjeet",108,124
+"Kareena Kapoor","Amitabh Bachchan",1,81
+"Kareena Kapoor","Ajay Devgn",100,81
+"Kareena Kapoor","Arjun Rampal",125,81
+"Kareena Kapoor","Amrita Rao",126,81
+"Kareena Kapoor","Manoj Bajpayee",3,81
+"Kareena Kapoor","Vipin Sharma",127,81
+"Kareena Kapoor","Anjali Patil",172,81
+"Amitabh Bachchan","Ajay Devgn",100,1
+"Amitabh Bachchan","Arjun Rampal",125,1
+"Amitabh Bachchan","Amrita Rao",126,1
+"Amitabh Bachchan","Manoj Bajpayee",3,1
+"Amitabh Bachchan","Vipin Sharma",127,1
+"Amitabh Bachchan","Anjali Patil",172,1
+"Ajay Devgn","Arjun Rampal",125,100
+"Ajay Devgn","Amrita Rao",126,100
+"Ajay Devgn","Manoj Bajpayee",3,100
+"Ajay Devgn","Vipin Sharma",127,100
+"Ajay Devgn","Anjali Patil",172,100
+"Arjun Rampal","Amrita Rao",126,125
+"Arjun Rampal","Manoj Bajpayee",3,125
+"Arjun Rampal","Vipin Sharma",127,125
+"Arjun Rampal","Anjali Patil",172,125
+"Amrita Rao","Manoj Bajpayee",3,126
+"Amrita Rao","Vipin Sharma",127,126
+"Amrita Rao","Anjali Patil",172,126
+"Manoj Bajpayee","Vipin Sharma",127,3
+"Manoj Bajpayee","Anjali Patil",172,3
+"Vipin Sharma","Anjali Patil",172,127
+"Sanjay Dutt","Sunil Shetty",94,128
+"Sanjay Dutt","Amitabh Bachchan",1,128
+"Sanjay Dutt","Arbaaz Khan",129,128
+"Sanjay Dutt","Abhishek Bachchan",76,128
+"Sanjay Dutt","Diya Mirza",130,128
+"Sanjay Dutt","Aarti Chhabria",131,128
+"Sanjay Dutt","Tusshar Kapoor",132,128
+"Sanjay Dutt","Vivek Oberoi",91,128
+"Sanjay Dutt","Neha Dhupia",133,128
+"Sanjay Dutt","Rohit Roy",134,128
+"Sanjay Dutt","Aditya Lakhia",135,128
+"Sanjay Dutt","Ravi Gossain",136,128
+"Sanjay Dutt","Shabbir Ahluwalia",137,128
+"Sanjay Dutt","Akhilendra Mishra",138,128
+"Sanjay Dutt","Amrita Singh",25,128
+"Sunil Shetty","Amitabh Bachchan",1,94
+"Sunil Shetty","Arbaaz Khan",129,94
+"Sunil Shetty","Abhishek Bachchan",76,94
+"Sunil Shetty","Diya Mirza",130,94
+"Sunil Shetty","Aarti Chhabria",131,94
+"Sunil Shetty","Tusshar Kapoor",132,94
+"Sunil Shetty","Vivek Oberoi",91,94
+"Sunil Shetty","Neha Dhupia",133,94
+"Sunil Shetty","Rohit Roy",134,94
+"Sunil Shetty","Aditya Lakhia",135,94
+"Sunil Shetty","Ravi Gossain",136,94
+"Sunil Shetty","Shabbir Ahluwalia",137,94
+"Sunil Shetty","Akhilendra Mishra",138,94
+"Sunil Shetty","Amrita Singh",25,94
+"Amitabh Bachchan","Arbaaz Khan",129,1
+"Amitabh Bachchan","Abhishek Bachchan",76,1
+"Amitabh Bachchan","Diya Mirza",130,1
+"Amitabh Bachchan","Aarti Chhabria",131,1
+"Amitabh Bachchan","Tusshar Kapoor",132,1
+"Amitabh Bachchan","Vivek Oberoi",91,1
+"Amitabh Bachchan","Neha Dhupia",133,1
+"Amitabh Bachchan","Rohit Roy",134,1
+"Amitabh Bachchan","Aditya Lakhia",135,1
+"Amitabh Bachchan","Ravi Gossain",136,1
+"Amitabh Bachchan","Shabbir Ahluwalia",137,1
+"Amitabh Bachchan","Akhilendra Mishra",138,1
+"Amitabh Bachchan","Amrita Singh",25,1
+"Arbaaz Khan","Abhishek Bachchan",76,129
+"Arbaaz Khan","Diya Mirza",130,129
+"Arbaaz Khan","Aarti Chhabria",131,129
+"Arbaaz Khan","Tusshar Kapoor",132,129
+"Arbaaz Khan","Vivek Oberoi",91,129
+"Arbaaz Khan","Neha Dhupia",133,129
+"Arbaaz Khan","Rohit Roy",134,129
+"Arbaaz Khan","Aditya Lakhia",135,129
+"Arbaaz Khan","Ravi Gossain",136,129
+"Arbaaz Khan","Shabbir Ahluwalia",137,129
+"Arbaaz Khan","Akhilendra Mishra",138,129
+"Arbaaz Khan","Amrita Singh",25,129
+"Abhishek Bachchan","Diya Mirza",130,76
+"Abhishek Bachchan","Aarti Chhabria",131,76
+"Abhishek Bachchan","Tusshar Kapoor",132,76
+"Abhishek Bachchan","Vivek Oberoi",91,76
+"Abhishek Bachchan","Neha Dhupia",133,76
+"Abhishek Bachchan","Rohit Roy",134,76
+"Abhishek Bachchan","Aditya Lakhia",135,76
+"Abhishek Bachchan","Ravi Gossain",136,76
+"Abhishek Bachchan","Shabbir Ahluwalia",137,76
+"Abhishek Bachchan","Akhilendra Mishra",138,76
+"Abhishek Bachchan","Amrita Singh",25,76
+"Diya Mirza","Aarti Chhabria",131,130
+"Diya Mirza","Tusshar Kapoor",132,130
+"Diya Mirza","Vivek Oberoi",91,130
+"Diya Mirza","Neha Dhupia",133,130
+"Diya Mirza","Rohit Roy",134,130
+"Diya Mirza","Aditya Lakhia",135,130
+"Diya Mirza","Ravi Gossain",136,130
+"Diya Mirza","Shabbir Ahluwalia",137,130
+"Diya Mirza","Akhilendra Mishra",138,130
+"Diya Mirza","Amrita Singh",25,130
+"Aarti Chhabria","Tusshar Kapoor",132,131
+"Aarti Chhabria","Vivek Oberoi",91,131
+"Aarti Chhabria","Neha Dhupia",133,131
+"Aarti Chhabria","Rohit Roy",134,131
+"Aarti Chhabria","Aditya Lakhia",135,131
+"Aarti Chhabria","Ravi Gossain",136,131
+"Aarti Chhabria","Shabbir Ahluwalia",137,131
+"Aarti Chhabria","Akhilendra Mishra",138,131
+"Aarti Chhabria","Amrita Singh",25,131
+"Tusshar Kapoor","Vivek Oberoi",91,132
+"Tusshar Kapoor","Neha Dhupia",133,132
+"Tusshar Kapoor","Rohit Roy",134,132
+"Tusshar Kapoor","Aditya Lakhia",135,132
+"Tusshar Kapoor","Ravi Gossain",136,132
+"Tusshar Kapoor","Shabbir Ahluwalia",137,132
+"Tusshar Kapoor","Akhilendra Mishra",138,132
+"Tusshar Kapoor","Amrita Singh",25,132
+"Vivek Oberoi","Neha Dhupia",133,91
+"Vivek Oberoi","Rohit Roy",134,91
+"Vivek Oberoi","Aditya Lakhia",135,91
+"Vivek Oberoi","Ravi Gossain",136,91
+"Vivek Oberoi","Shabbir Ahluwalia",137,91
+"Vivek Oberoi","Akhilendra Mishra",138,91
+"Vivek Oberoi","Amrita Singh",25,91
+"Neha Dhupia","Rohit Roy",134,133
+"Neha Dhupia","Aditya Lakhia",135,133
+"Neha Dhupia","Ravi Gossain",136,133
+"Neha Dhupia","Shabbir Ahluwalia",137,133
+"Neha Dhupia","Akhilendra Mishra",138,133
+"Neha Dhupia","Amrita Singh",25,133
+"Rohit Roy","Aditya Lakhia",135,134
+"Rohit Roy","Ravi Gossain",136,134
+"Rohit Roy","Shabbir Ahluwalia",137,134
+"Rohit Roy","Akhilendra Mishra",138,134
+"Rohit Roy","Amrita Singh",25,134
+"Aditya Lakhia","Ravi Gossain",136,135
+"Aditya Lakhia","Shabbir Ahluwalia",137,135
+"Aditya Lakhia","Akhilendra Mishra",138,135
+"Aditya Lakhia","Amrita Singh",25,135
+"Ravi Gossain","Shabbir Ahluwalia",137,136
+"Ravi Gossain","Akhilendra Mishra",138,136
+"Ravi Gossain","Amrita Singh",25,136
+"Shabbir Ahluwalia","Akhilendra Mishra",138,137
+"Shabbir Ahluwalia","Amrita Singh",25,137
+"Akhilendra Mishra","Amrita Singh",25,138
+"Amitabh Bachchan","Nawazuddin Siddiqui",39,1
+"Amitabh Bachchan","Vidya Balan",101,1
+"Amitabh Bachchan","Mukesh Chhabra",139,1
+"Amitabh Bachchan","Sabyasachi Chakraborty",140,1
+"Amitabh Bachchan","Prakash Belawadi",141,1
+"Amitabh Bachchan","Tota Roy Chowdhury",142,1
+"Amitabh Bachchan","Padmavati Rao",143,1
+"Amitabh Bachchan","Suneel Sinha",173,1
+"Nawazuddin Siddiqui","Vidya Balan",101,39
+"Nawazuddin Siddiqui","Mukesh Chhabra",139,39
+"Nawazuddin Siddiqui","Sabyasachi Chakraborty",140,39
+"Nawazuddin Siddiqui","Prakash Belawadi",141,39
+"Nawazuddin Siddiqui","Tota Roy Chowdhury",142,39
+"Nawazuddin Siddiqui","Padmavati Rao",143,39
+"Nawazuddin Siddiqui","Suneel Sinha",173,39
+"Vidya Balan","Mukesh Chhabra",139,101
+"Vidya Balan","Sabyasachi Chakraborty",140,101
+"Vidya Balan","Prakash Belawadi",141,101
+"Vidya Balan","Tota Roy Chowdhury",142,101
+"Vidya Balan","Padmavati Rao",143,101
+"Vidya Balan","Suneel Sinha",173,101
+"Mukesh Chhabra","Sabyasachi Chakraborty",140,139
+"Mukesh Chhabra","Prakash Belawadi",141,139
+"Mukesh Chhabra","Tota Roy Chowdhury",142,139
+"Mukesh Chhabra","Padmavati Rao",143,139
+"Mukesh Chhabra","Suneel Sinha",173,139
+"Sabyasachi Chakraborty","Prakash Belawadi",141,140
+"Sabyasachi Chakraborty","Tota Roy Chowdhury",142,140
+"Sabyasachi Chakraborty","Padmavati Rao",143,140
+"Sabyasachi Chakraborty","Suneel Sinha",173,140
+"Prakash Belawadi","Tota Roy Chowdhury",142,141
+"Prakash Belawadi","Padmavati Rao",143,141
+"Prakash Belawadi","Suneel Sinha",173,141
+"Tota Roy Chowdhury","Padmavati Rao",143,142
+"Tota Roy Chowdhury","Suneel Sinha",173,142
+"Padmavati Rao","Suneel Sinha",173,143
+"Amitabh Bachchan","Madhavan",144,1
+"Amitabh Bachchan","Ben Kingsley",145,1
+"Amitabh Bachchan","Shraddha Kapoor",146,1
+"Amitabh Bachchan","Siddharth Kher",147,1
+"Amitabh Bachchan","Dhruv Ganesh",148,1
+"Amitabh Bachchan","Vaibhav Talwar",174,1
+"Madhavan","Ben Kingsley",145,144
+"Madhavan","Shraddha Kapoor",146,144
+"Madhavan","Siddharth Kher",147,144
+"Madhavan","Dhruv Ganesh",148,144
+"Madhavan","Vaibhav Talwar",174,144
+"Ben Kingsley","Shraddha Kapoor",146,145
+"Ben Kingsley","Siddharth Kher",147,145
+"Ben Kingsley","Dhruv Ganesh",148,145
+"Ben Kingsley","Vaibhav Talwar",174,145
+"Shraddha Kapoor","Siddharth Kher",147,146
+"Shraddha Kapoor","Dhruv Ganesh",148,146
+"Shraddha Kapoor","Vaibhav Talwar",174,146
+"Siddharth Kher","Dhruv Ganesh",148,147
+"Siddharth Kher","Vaibhav Talwar",174,147
+"Dhruv Ganesh","Vaibhav Talwar",174,148
+"Amitabh Bachchan","Zeenat Aman",49,1
+"Amitabh Bachchan","Neetu Singh",20,1
+"Amitabh Bachchan","Prem Chopra",59,1
+"Amitabh Bachchan","Utpal Dutt",149,1
+"Amitabh Bachchan","Madan Puri",150,1
+"Amitabh Bachchan","Om Shivpuri",151,1
+"Amitabh Bachchan","Iftekhar",152,1
+"Amitabh Bachchan","Sujit Kumar",153,1
+"Amitabh Bachchan","Roopesh Kumar",175,1
+"Zeenat Aman","Neetu Singh",20,49
+"Zeenat Aman","Prem Chopra",59,49
+"Zeenat Aman","Utpal Dutt",149,49
+"Zeenat Aman","Madan Puri",150,49
+"Zeenat Aman","Om Shivpuri",151,49
+"Zeenat Aman","Iftekhar",152,49
+"Zeenat Aman","Sujit Kumar",153,49
+"Zeenat Aman","Roopesh Kumar",175,49
+"Neetu Singh","Prem Chopra",59,20
+"Neetu Singh","Utpal Dutt",149,20
+"Neetu Singh","Madan Puri",150,20
+"Neetu Singh","Om Shivpuri",151,20
+"Neetu Singh","Iftekhar",152,20
+"Neetu Singh","Sujit Kumar",153,20
+"Neetu Singh","Roopesh Kumar",175,20
+"Prem Chopra","Utpal Dutt",149,59
+"Prem Chopra","Madan Puri",150,59
+"Prem Chopra","Om Shivpuri",151,59
+"Prem Chopra","Iftekhar",152,59
+"Prem Chopra","Sujit Kumar",153,59
+"Prem Chopra","Roopesh Kumar",175,59
+"Utpal Dutt","Madan Puri",150,149
+"Utpal Dutt","Om Shivpuri",151,149
+"Utpal Dutt","Iftekhar",152,149
+"Utpal Dutt","Sujit Kumar",153,149
+"Utpal Dutt","Roopesh Kumar",175,149
+"Madan Puri","Om Shivpuri",151,150
+"Madan Puri","Iftekhar",152,150
+"Madan Puri","Sujit Kumar",153,150
+"Madan Puri","Roopesh Kumar",175,150
+"Om Shivpuri","Iftekhar",152,151
+"Om Shivpuri","Sujit Kumar",153,151
+"Om Shivpuri","Roopesh Kumar",175,151
+"Iftekhar","Sujit Kumar",153,152
+"Iftekhar","Roopesh Kumar",175,152
+"Sujit Kumar","Roopesh Kumar",175,153
+"Amitabh Bachchan","Farhan Akhtar",154,1
+"Amitabh Bachchan","Aditi Rao Hydari",155,1
+"Amitabh Bachchan","Manav Kaul",156,1
+"Amitabh Bachchan","Neil Nitin Mukesh",157,1
+"Amitabh Bachchan","John Abraham",176,1
+"Farhan Akhtar","Aditi Rao Hydari",155,154
+"Farhan Akhtar","Manav Kaul",156,154
+"Farhan Akhtar","Neil Nitin Mukesh",157,154
+"Farhan Akhtar","John Abraham",176,154
+"Aditi Rao Hydari","Manav Kaul",156,155
+"Aditi Rao Hydari","Neil Nitin Mukesh",157,155
+"Aditi Rao Hydari","John Abraham",176,155
+"Manav Kaul","Neil Nitin Mukesh",157,156
+"Manav Kaul","John Abraham",176,156
+"Neil Nitin Mukesh","John Abraham",176,157

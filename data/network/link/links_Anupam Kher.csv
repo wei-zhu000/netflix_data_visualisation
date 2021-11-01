@@ -1,0 +1,1854 @@
+"from","to","target","source"
+"Gerard Butler","Gretchen Mol",2,1
+"Gerard Butler","Alison Brie",3,1
+"Gerard Butler","Willem Dafoe",4,1
+"Gerard Butler","Alfred Molina",5,1
+"Gerard Butler","Maxwell Jenkins",6,1
+"Gerard Butler","Anupam Kher",7,1
+"Gerard Butler","Dustin Milligan",247,1
+"Gretchen Mol","Alison Brie",3,2
+"Gretchen Mol","Willem Dafoe",4,2
+"Gretchen Mol","Alfred Molina",5,2
+"Gretchen Mol","Maxwell Jenkins",6,2
+"Gretchen Mol","Anupam Kher",7,2
+"Gretchen Mol","Dustin Milligan",247,2
+"Alison Brie","Willem Dafoe",4,3
+"Alison Brie","Alfred Molina",5,3
+"Alison Brie","Maxwell Jenkins",6,3
+"Alison Brie","Anupam Kher",7,3
+"Alison Brie","Dustin Milligan",247,3
+"Willem Dafoe","Alfred Molina",5,4
+"Willem Dafoe","Maxwell Jenkins",6,4
+"Willem Dafoe","Anupam Kher",7,4
+"Willem Dafoe","Dustin Milligan",247,4
+"Alfred Molina","Maxwell Jenkins",6,5
+"Alfred Molina","Anupam Kher",7,5
+"Alfred Molina","Dustin Milligan",247,5
+"Maxwell Jenkins","Anupam Kher",7,6
+"Maxwell Jenkins","Dustin Milligan",247,6
+"Anupam Kher","Dustin Milligan",247,7
+"Anupam Kher","Naseeruddin Shah",8,7
+"Anupam Kher","Jimmy Shergill",9,7
+"Anupam Kher","Deepal Shaw",10,7
+"Anupam Kher","Aamir Bashir",11,7
+"Anupam Kher","Kali Prasad Mukherjee",12,7
+"Anupam Kher","Vijay Bhatia",13,7
+"Anupam Kher","Chetan Pandit",248,7
+"Naseeruddin Shah","Jimmy Shergill",9,8
+"Naseeruddin Shah","Deepal Shaw",10,8
+"Naseeruddin Shah","Aamir Bashir",11,8
+"Naseeruddin Shah","Kali Prasad Mukherjee",12,8
+"Naseeruddin Shah","Vijay Bhatia",13,8
+"Naseeruddin Shah","Chetan Pandit",248,8
+"Jimmy Shergill","Deepal Shaw",10,9
+"Jimmy Shergill","Aamir Bashir",11,9
+"Jimmy Shergill","Kali Prasad Mukherjee",12,9
+"Jimmy Shergill","Vijay Bhatia",13,9
+"Jimmy Shergill","Chetan Pandit",248,9
+"Deepal Shaw","Aamir Bashir",11,10
+"Deepal Shaw","Kali Prasad Mukherjee",12,10
+"Deepal Shaw","Vijay Bhatia",13,10
+"Deepal Shaw","Chetan Pandit",248,10
+"Aamir Bashir","Kali Prasad Mukherjee",12,11
+"Aamir Bashir","Vijay Bhatia",13,11
+"Aamir Bashir","Chetan Pandit",248,11
+"Kali Prasad Mukherjee","Vijay Bhatia",13,12
+"Kali Prasad Mukherjee","Chetan Pandit",248,12
+"Vijay Bhatia","Chetan Pandit",248,13
+"Sidharth Malhotra","Manoj Bajpayee",15,14
+"Sidharth Malhotra","Rakul Preet Singh",16,14
+"Sidharth Malhotra","Pooja Chopra",17,14
+"Sidharth Malhotra","Adil Hussain",18,14
+"Sidharth Malhotra","Kumud Mishra",19,14
+"Sidharth Malhotra","Naseeruddin Shah",8,14
+"Sidharth Malhotra","Anupam Kher",7,14
+"Sidharth Malhotra","Vikram Gokhale",20,14
+"Sidharth Malhotra","Juhi Babbar",249,14
+"Manoj Bajpayee","Rakul Preet Singh",16,15
+"Manoj Bajpayee","Pooja Chopra",17,15
+"Manoj Bajpayee","Adil Hussain",18,15
+"Manoj Bajpayee","Kumud Mishra",19,15
+"Manoj Bajpayee","Naseeruddin Shah",8,15
+"Manoj Bajpayee","Anupam Kher",7,15
+"Manoj Bajpayee","Vikram Gokhale",20,15
+"Manoj Bajpayee","Juhi Babbar",249,15
+"Rakul Preet Singh","Pooja Chopra",17,16
+"Rakul Preet Singh","Adil Hussain",18,16
+"Rakul Preet Singh","Kumud Mishra",19,16
+"Rakul Preet Singh","Naseeruddin Shah",8,16
+"Rakul Preet Singh","Anupam Kher",7,16
+"Rakul Preet Singh","Vikram Gokhale",20,16
+"Rakul Preet Singh","Juhi Babbar",249,16
+"Pooja Chopra","Adil Hussain",18,17
+"Pooja Chopra","Kumud Mishra",19,17
+"Pooja Chopra","Naseeruddin Shah",8,17
+"Pooja Chopra","Anupam Kher",7,17
+"Pooja Chopra","Vikram Gokhale",20,17
+"Pooja Chopra","Juhi Babbar",249,17
+"Adil Hussain","Kumud Mishra",19,18
+"Adil Hussain","Naseeruddin Shah",8,18
+"Adil Hussain","Anupam Kher",7,18
+"Adil Hussain","Vikram Gokhale",20,18
+"Adil Hussain","Juhi Babbar",249,18
+"Kumud Mishra","Naseeruddin Shah",8,19
+"Kumud Mishra","Anupam Kher",7,19
+"Kumud Mishra","Vikram Gokhale",20,19
+"Kumud Mishra","Juhi Babbar",249,19
+"Naseeruddin Shah","Anupam Kher",7,8
+"Naseeruddin Shah","Vikram Gokhale",20,8
+"Naseeruddin Shah","Juhi Babbar",249,8
+"Anupam Kher","Vikram Gokhale",20,7
+"Anupam Kher","Juhi Babbar",249,7
+"Vikram Gokhale","Juhi Babbar",249,20
+"Mahesh Bhatt","Mithun Chakraborty",22,21
+"Mahesh Bhatt","G.K. Desai",23,21
+"Mahesh Bhatt","Celina Jaitly",24,21
+"Mahesh Bhatt","Karan Johar",25,21
+"Mahesh Bhatt","Ekta Kapoor",26,21
+"Mahesh Bhatt","Tusshar Kapoor",27,21
+"Mahesh Bhatt","Anupam Kher",7,21
+"Mahesh Bhatt","Ashok Pandit",28,21
+"Mahesh Bhatt","Lalit Parashar",29,21
+"Mahesh Bhatt","Raima Sen",30,21
+"Mahesh Bhatt","Rajpal Yadav",105,21
+"Mithun Chakraborty","G.K. Desai",23,22
+"Mithun Chakraborty","Celina Jaitly",24,22
+"Mithun Chakraborty","Karan Johar",25,22
+"Mithun Chakraborty","Ekta Kapoor",26,22
+"Mithun Chakraborty","Tusshar Kapoor",27,22
+"Mithun Chakraborty","Anupam Kher",7,22
+"Mithun Chakraborty","Ashok Pandit",28,22
+"Mithun Chakraborty","Lalit Parashar",29,22
+"Mithun Chakraborty","Raima Sen",30,22
+"Mithun Chakraborty","Rajpal Yadav",105,22
+"G.K. Desai","Celina Jaitly",24,23
+"G.K. Desai","Karan Johar",25,23
+"G.K. Desai","Ekta Kapoor",26,23
+"G.K. Desai","Tusshar Kapoor",27,23
+"G.K. Desai","Anupam Kher",7,23
+"G.K. Desai","Ashok Pandit",28,23
+"G.K. Desai","Lalit Parashar",29,23
+"G.K. Desai","Raima Sen",30,23
+"G.K. Desai","Rajpal Yadav",105,23
+"Celina Jaitly","Karan Johar",25,24
+"Celina Jaitly","Ekta Kapoor",26,24
+"Celina Jaitly","Tusshar Kapoor",27,24
+"Celina Jaitly","Anupam Kher",7,24
+"Celina Jaitly","Ashok Pandit",28,24
+"Celina Jaitly","Lalit Parashar",29,24
+"Celina Jaitly","Raima Sen",30,24
+"Celina Jaitly","Rajpal Yadav",105,24
+"Karan Johar","Ekta Kapoor",26,25
+"Karan Johar","Tusshar Kapoor",27,25
+"Karan Johar","Anupam Kher",7,25
+"Karan Johar","Ashok Pandit",28,25
+"Karan Johar","Lalit Parashar",29,25
+"Karan Johar","Raima Sen",30,25
+"Karan Johar","Rajpal Yadav",105,25
+"Ekta Kapoor","Tusshar Kapoor",27,26
+"Ekta Kapoor","Anupam Kher",7,26
+"Ekta Kapoor","Ashok Pandit",28,26
+"Ekta Kapoor","Lalit Parashar",29,26
+"Ekta Kapoor","Raima Sen",30,26
+"Ekta Kapoor","Rajpal Yadav",105,26
+"Tusshar Kapoor","Anupam Kher",7,27
+"Tusshar Kapoor","Ashok Pandit",28,27
+"Tusshar Kapoor","Lalit Parashar",29,27
+"Tusshar Kapoor","Raima Sen",30,27
+"Tusshar Kapoor","Rajpal Yadav",105,27
+"Anupam Kher","Ashok Pandit",28,7
+"Anupam Kher","Lalit Parashar",29,7
+"Anupam Kher","Raima Sen",30,7
+"Anupam Kher","Rajpal Yadav",105,7
+"Ashok Pandit","Lalit Parashar",29,28
+"Ashok Pandit","Raima Sen",30,28
+"Ashok Pandit","Rajpal Yadav",105,28
+"Lalit Parashar","Raima Sen",30,29
+"Lalit Parashar","Rajpal Yadav",105,29
+"Raima Sen","Rajpal Yadav",105,30
+"Naseeruddin Shah","Shah Rukh Khan",31,8
+"Naseeruddin Shah","Pooja Bhatt",32,8
+"Naseeruddin Shah","Anupam Kher",7,8
+"Naseeruddin Shah","Ramya Krishnan",33,8
+"Naseeruddin Shah","Avtar Gill",34,8
+"Naseeruddin Shah","Mushtaq Khan",250,8
+"Shah Rukh Khan","Pooja Bhatt",32,31
+"Shah Rukh Khan","Anupam Kher",7,31
+"Shah Rukh Khan","Ramya Krishnan",33,31
+"Shah Rukh Khan","Avtar Gill",34,31
+"Shah Rukh Khan","Mushtaq Khan",250,31
+"Pooja Bhatt","Anupam Kher",7,32
+"Pooja Bhatt","Ramya Krishnan",33,32
+"Pooja Bhatt","Avtar Gill",34,32
+"Pooja Bhatt","Mushtaq Khan",250,32
+"Anupam Kher","Ramya Krishnan",33,7
+"Anupam Kher","Avtar Gill",34,7
+"Anupam Kher","Mushtaq Khan",250,7
+"Ramya Krishnan","Avtar Gill",34,33
+"Ramya Krishnan","Mushtaq Khan",250,33
+"Avtar Gill","Mushtaq Khan",250,34
+"Rishi Kapoor","Ali Zafar",36,35
+"Rishi Kapoor","Taapsee Pannu",37,35
+"Rishi Kapoor","Siddharth",38,35
+"Rishi Kapoor","Divyendu Sharma",39,35
+"Rishi Kapoor","Anupam Kher",7,35
+"Rishi Kapoor","Bharati Achrekar",40,35
+"Rishi Kapoor","Lillete Dubey",41,35
+"Rishi Kapoor","Ayaz Khan",44,35
+"Ali Zafar","Taapsee Pannu",37,36
+"Ali Zafar","Siddharth",38,36
+"Ali Zafar","Divyendu Sharma",39,36
+"Ali Zafar","Anupam Kher",7,36
+"Ali Zafar","Bharati Achrekar",40,36
+"Ali Zafar","Lillete Dubey",41,36
+"Ali Zafar","Ayaz Khan",44,36
+"Taapsee Pannu","Siddharth",38,37
+"Taapsee Pannu","Divyendu Sharma",39,37
+"Taapsee Pannu","Anupam Kher",7,37
+"Taapsee Pannu","Bharati Achrekar",40,37
+"Taapsee Pannu","Lillete Dubey",41,37
+"Taapsee Pannu","Ayaz Khan",44,37
+"Siddharth","Divyendu Sharma",39,38
+"Siddharth","Anupam Kher",7,38
+"Siddharth","Bharati Achrekar",40,38
+"Siddharth","Lillete Dubey",41,38
+"Siddharth","Ayaz Khan",44,38
+"Divyendu Sharma","Anupam Kher",7,39
+"Divyendu Sharma","Bharati Achrekar",40,39
+"Divyendu Sharma","Lillete Dubey",41,39
+"Divyendu Sharma","Ayaz Khan",44,39
+"Anupam Kher","Bharati Achrekar",40,7
+"Anupam Kher","Lillete Dubey",41,7
+"Anupam Kher","Ayaz Khan",44,7
+"Bharati Achrekar","Lillete Dubey",41,40
+"Bharati Achrekar","Ayaz Khan",44,40
+"Lillete Dubey","Ayaz Khan",44,41
+"Ali Zafar","Siddharth",38,36
+"Ali Zafar","Divyendu Sharma",39,36
+"Ali Zafar","Tapsee Pannu",42,36
+"Ali Zafar","Rishi Kapoor",35,36
+"Ali Zafar","Anupam Kher",7,36
+"Ali Zafar","Bharati Achrekar",40,36
+"Ali Zafar","Varun Dhawan",43,36
+"Ali Zafar","Lillete Dubey",41,36
+"Ali Zafar","Ayaz Khan",44,36
+"Ali Zafar","Ashish Verma",251,36
+"Siddharth","Divyendu Sharma",39,38
+"Siddharth","Tapsee Pannu",42,38
+"Siddharth","Rishi Kapoor",35,38
+"Siddharth","Anupam Kher",7,38
+"Siddharth","Bharati Achrekar",40,38
+"Siddharth","Varun Dhawan",43,38
+"Siddharth","Lillete Dubey",41,38
+"Siddharth","Ayaz Khan",44,38
+"Siddharth","Ashish Verma",251,38
+"Divyendu Sharma","Tapsee Pannu",42,39
+"Divyendu Sharma","Rishi Kapoor",35,39
+"Divyendu Sharma","Anupam Kher",7,39
+"Divyendu Sharma","Bharati Achrekar",40,39
+"Divyendu Sharma","Varun Dhawan",43,39
+"Divyendu Sharma","Lillete Dubey",41,39
+"Divyendu Sharma","Ayaz Khan",44,39
+"Divyendu Sharma","Ashish Verma",251,39
+"Tapsee Pannu","Rishi Kapoor",35,42
+"Tapsee Pannu","Anupam Kher",7,42
+"Tapsee Pannu","Bharati Achrekar",40,42
+"Tapsee Pannu","Varun Dhawan",43,42
+"Tapsee Pannu","Lillete Dubey",41,42
+"Tapsee Pannu","Ayaz Khan",44,42
+"Tapsee Pannu","Ashish Verma",251,42
+"Rishi Kapoor","Anupam Kher",7,35
+"Rishi Kapoor","Bharati Achrekar",40,35
+"Rishi Kapoor","Varun Dhawan",43,35
+"Rishi Kapoor","Lillete Dubey",41,35
+"Rishi Kapoor","Ayaz Khan",44,35
+"Rishi Kapoor","Ashish Verma",251,35
+"Anupam Kher","Bharati Achrekar",40,7
+"Anupam Kher","Varun Dhawan",43,7
+"Anupam Kher","Lillete Dubey",41,7
+"Anupam Kher","Ayaz Khan",44,7
+"Anupam Kher","Ashish Verma",251,7
+"Bharati Achrekar","Varun Dhawan",43,40
+"Bharati Achrekar","Lillete Dubey",41,40
+"Bharati Achrekar","Ayaz Khan",44,40
+"Bharati Achrekar","Ashish Verma",251,40
+"Varun Dhawan","Lillete Dubey",41,43
+"Varun Dhawan","Ayaz Khan",44,43
+"Varun Dhawan","Ashish Verma",251,43
+"Lillete Dubey","Ayaz Khan",44,41
+"Lillete Dubey","Ashish Verma",251,41
+"Ayaz Khan","Ashish Verma",251,44
+"Aamir Khan","Madhuri Dixit",46,45
+"Aamir Khan","Saeed Jaffrey",47,45
+"Aamir Khan","Deven Verma",48,45
+"Aamir Khan","Anupam Kher",7,45
+"Aamir Khan","Shammi",49,45
+"Aamir Khan","Padma Rani",50,45
+"Aamir Khan","Rajesh Puri",51,45
+"Aamir Khan","Satyendra Kapoor",252,45
+"Madhuri Dixit","Saeed Jaffrey",47,46
+"Madhuri Dixit","Deven Verma",48,46
+"Madhuri Dixit","Anupam Kher",7,46
+"Madhuri Dixit","Shammi",49,46
+"Madhuri Dixit","Padma Rani",50,46
+"Madhuri Dixit","Rajesh Puri",51,46
+"Madhuri Dixit","Satyendra Kapoor",252,46
+"Saeed Jaffrey","Deven Verma",48,47
+"Saeed Jaffrey","Anupam Kher",7,47
+"Saeed Jaffrey","Shammi",49,47
+"Saeed Jaffrey","Padma Rani",50,47
+"Saeed Jaffrey","Rajesh Puri",51,47
+"Saeed Jaffrey","Satyendra Kapoor",252,47
+"Deven Verma","Anupam Kher",7,48
+"Deven Verma","Shammi",49,48
+"Deven Verma","Padma Rani",50,48
+"Deven Verma","Rajesh Puri",51,48
+"Deven Verma","Satyendra Kapoor",252,48
+"Anupam Kher","Shammi",49,7
+"Anupam Kher","Padma Rani",50,7
+"Anupam Kher","Rajesh Puri",51,7
+"Anupam Kher","Satyendra Kapoor",252,7
+"Shammi","Padma Rani",50,49
+"Shammi","Rajesh Puri",51,49
+"Shammi","Satyendra Kapoor",252,49
+"Padma Rani","Rajesh Puri",51,50
+"Padma Rani","Satyendra Kapoor",252,50
+"Rajesh Puri","Satyendra Kapoor",252,51
+"Abhishek Bachchan","Kangana Ranaut",53,52
+"Abhishek Bachchan","Anupam Kher",7,52
+"Abhishek Bachchan","Boman Irani",54,52
+"Abhishek Bachchan","Jimmy Shergill",9,52
+"Abhishek Bachchan","Shahana Goswami",55,52
+"Abhishek Bachchan","Gauhar Khan",56,52
+"Abhishek Bachchan","Sarah-Jane Dias",253,52
+"Kangana Ranaut","Anupam Kher",7,53
+"Kangana Ranaut","Boman Irani",54,53
+"Kangana Ranaut","Jimmy Shergill",9,53
+"Kangana Ranaut","Shahana Goswami",55,53
+"Kangana Ranaut","Gauhar Khan",56,53
+"Kangana Ranaut","Sarah-Jane Dias",253,53
+"Anupam Kher","Boman Irani",54,7
+"Anupam Kher","Jimmy Shergill",9,7
+"Anupam Kher","Shahana Goswami",55,7
+"Anupam Kher","Gauhar Khan",56,7
+"Anupam Kher","Sarah-Jane Dias",253,7
+"Boman Irani","Jimmy Shergill",9,54
+"Boman Irani","Shahana Goswami",55,54
+"Boman Irani","Gauhar Khan",56,54
+"Boman Irani","Sarah-Jane Dias",253,54
+"Jimmy Shergill","Shahana Goswami",55,9
+"Jimmy Shergill","Gauhar Khan",56,9
+"Jimmy Shergill","Sarah-Jane Dias",253,9
+"Shahana Goswami","Gauhar Khan",56,55
+"Shahana Goswami","Sarah-Jane Dias",253,55
+"Gauhar Khan","Sarah-Jane Dias",253,56
+"Imran Khan","Kareena Kapoor",58,57
+"Imran Khan","Nizhalgal Ravi",59,57
+"Imran Khan","Anupam Kher",7,57
+"Imran Khan","Shraddha Kapoor",60,57
+"Imran Khan","Esha Gupta",61,57
+"Imran Khan","Sujata Kumar",62,57
+"Imran Khan","Neelu Kohli",254,57
+"Kareena Kapoor","Nizhalgal Ravi",59,58
+"Kareena Kapoor","Anupam Kher",7,58
+"Kareena Kapoor","Shraddha Kapoor",60,58
+"Kareena Kapoor","Esha Gupta",61,58
+"Kareena Kapoor","Sujata Kumar",62,58
+"Kareena Kapoor","Neelu Kohli",254,58
+"Nizhalgal Ravi","Anupam Kher",7,59
+"Nizhalgal Ravi","Shraddha Kapoor",60,59
+"Nizhalgal Ravi","Esha Gupta",61,59
+"Nizhalgal Ravi","Sujata Kumar",62,59
+"Nizhalgal Ravi","Neelu Kohli",254,59
+"Anupam Kher","Shraddha Kapoor",60,7
+"Anupam Kher","Esha Gupta",61,7
+"Anupam Kher","Sujata Kumar",62,7
+"Anupam Kher","Neelu Kohli",254,7
+"Shraddha Kapoor","Esha Gupta",61,60
+"Shraddha Kapoor","Sujata Kumar",62,60
+"Shraddha Kapoor","Neelu Kohli",254,60
+"Esha Gupta","Sujata Kumar",62,61
+"Esha Gupta","Neelu Kohli",254,61
+"Sujata Kumar","Neelu Kohli",254,62
+"Sanjay Dutt","Sridevi",64,63
+"Sanjay Dutt","Anupam Kher",7,63
+"Sanjay Dutt","Rahul Roy",65,63
+"Sanjay Dutt","Soni Razdan",66,63
+"Sanjay Dutt","Reema Lagoo",67,63
+"Sanjay Dutt","Kunika",68,63
+"Sanjay Dutt","Tom Alter",69,63
+"Sanjay Dutt","Bob Christo",70,63
+"Sanjay Dutt","Anang Desai",255,63
+"Sridevi","Anupam Kher",7,64
+"Sridevi","Rahul Roy",65,64
+"Sridevi","Soni Razdan",66,64
+"Sridevi","Reema Lagoo",67,64
+"Sridevi","Kunika",68,64
+"Sridevi","Tom Alter",69,64
+"Sridevi","Bob Christo",70,64
+"Sridevi","Anang Desai",255,64
+"Anupam Kher","Rahul Roy",65,7
+"Anupam Kher","Soni Razdan",66,7
+"Anupam Kher","Reema Lagoo",67,7
+"Anupam Kher","Kunika",68,7
+"Anupam Kher","Tom Alter",69,7
+"Anupam Kher","Bob Christo",70,7
+"Anupam Kher","Anang Desai",255,7
+"Rahul Roy","Soni Razdan",66,65
+"Rahul Roy","Reema Lagoo",67,65
+"Rahul Roy","Kunika",68,65
+"Rahul Roy","Tom Alter",69,65
+"Rahul Roy","Bob Christo",70,65
+"Rahul Roy","Anang Desai",255,65
+"Soni Razdan","Reema Lagoo",67,66
+"Soni Razdan","Kunika",68,66
+"Soni Razdan","Tom Alter",69,66
+"Soni Razdan","Bob Christo",70,66
+"Soni Razdan","Anang Desai",255,66
+"Reema Lagoo","Kunika",68,67
+"Reema Lagoo","Tom Alter",69,67
+"Reema Lagoo","Bob Christo",70,67
+"Reema Lagoo","Anang Desai",255,67
+"Kunika","Tom Alter",69,68
+"Kunika","Bob Christo",70,68
+"Kunika","Anang Desai",255,68
+"Tom Alter","Bob Christo",70,69
+"Tom Alter","Anang Desai",255,69
+"Bob Christo","Anang Desai",255,70
+"Anil Kapoor","Aishwarya Rai Bachchan",72,71
+"Anil Kapoor","Sonali Bendre",73,71
+"Anil Kapoor","Puru Rajkumar",74,71
+"Anil Kapoor","Anupam Kher",7,71
+"Anil Kapoor","Satish Kaushik",75,71
+"Anil Kapoor","Mukesh Rishi",76,71
+"Anil Kapoor","Jaspal Bhatti",77,71
+"Anil Kapoor","Razak Khan",78,71
+"Anil Kapoor","Himani Shivpuri",79,71
+"Anil Kapoor","Smita Jaykar",80,71
+"Anil Kapoor","Tanaaz Currim Irani",256,71
+"Aishwarya Rai Bachchan","Sonali Bendre",73,72
+"Aishwarya Rai Bachchan","Puru Rajkumar",74,72
+"Aishwarya Rai Bachchan","Anupam Kher",7,72
+"Aishwarya Rai Bachchan","Satish Kaushik",75,72
+"Aishwarya Rai Bachchan","Mukesh Rishi",76,72
+"Aishwarya Rai Bachchan","Jaspal Bhatti",77,72
+"Aishwarya Rai Bachchan","Razak Khan",78,72
+"Aishwarya Rai Bachchan","Himani Shivpuri",79,72
+"Aishwarya Rai Bachchan","Smita Jaykar",80,72
+"Aishwarya Rai Bachchan","Tanaaz Currim Irani",256,72
+"Sonali Bendre","Puru Rajkumar",74,73
+"Sonali Bendre","Anupam Kher",7,73
+"Sonali Bendre","Satish Kaushik",75,73
+"Sonali Bendre","Mukesh Rishi",76,73
+"Sonali Bendre","Jaspal Bhatti",77,73
+"Sonali Bendre","Razak Khan",78,73
+"Sonali Bendre","Himani Shivpuri",79,73
+"Sonali Bendre","Smita Jaykar",80,73
+"Sonali Bendre","Tanaaz Currim Irani",256,73
+"Puru Rajkumar","Anupam Kher",7,74
+"Puru Rajkumar","Satish Kaushik",75,74
+"Puru Rajkumar","Mukesh Rishi",76,74
+"Puru Rajkumar","Jaspal Bhatti",77,74
+"Puru Rajkumar","Razak Khan",78,74
+"Puru Rajkumar","Himani Shivpuri",79,74
+"Puru Rajkumar","Smita Jaykar",80,74
+"Puru Rajkumar","Tanaaz Currim Irani",256,74
+"Anupam Kher","Satish Kaushik",75,7
+"Anupam Kher","Mukesh Rishi",76,7
+"Anupam Kher","Jaspal Bhatti",77,7
+"Anupam Kher","Razak Khan",78,7
+"Anupam Kher","Himani Shivpuri",79,7
+"Anupam Kher","Smita Jaykar",80,7
+"Anupam Kher","Tanaaz Currim Irani",256,7
+"Satish Kaushik","Mukesh Rishi",76,75
+"Satish Kaushik","Jaspal Bhatti",77,75
+"Satish Kaushik","Razak Khan",78,75
+"Satish Kaushik","Himani Shivpuri",79,75
+"Satish Kaushik","Smita Jaykar",80,75
+"Satish Kaushik","Tanaaz Currim Irani",256,75
+"Mukesh Rishi","Jaspal Bhatti",77,76
+"Mukesh Rishi","Razak Khan",78,76
+"Mukesh Rishi","Himani Shivpuri",79,76
+"Mukesh Rishi","Smita Jaykar",80,76
+"Mukesh Rishi","Tanaaz Currim Irani",256,76
+"Jaspal Bhatti","Razak Khan",78,77
+"Jaspal Bhatti","Himani Shivpuri",79,77
+"Jaspal Bhatti","Smita Jaykar",80,77
+"Jaspal Bhatti","Tanaaz Currim Irani",256,77
+"Razak Khan","Himani Shivpuri",79,78
+"Razak Khan","Smita Jaykar",80,78
+"Razak Khan","Tanaaz Currim Irani",256,78
+"Himani Shivpuri","Smita Jaykar",80,79
+"Himani Shivpuri","Tanaaz Currim Irani",256,79
+"Smita Jaykar","Tanaaz Currim Irani",256,80
+"Sanjay Dutt","Govinda",81,63
+"Sanjay Dutt","Karisma Kapoor",82,63
+"Sanjay Dutt","Pooja Batra",83,63
+"Sanjay Dutt","Kader Khan",84,63
+"Sanjay Dutt","Paresh Rawal",85,63
+"Sanjay Dutt","Satish Kaushik",75,63
+"Sanjay Dutt","Aruna Irani",86,63
+"Sanjay Dutt","Anupam Kher",7,63
+"Sanjay Dutt","Ashish Vidyarthi",87,63
+"Sanjay Dutt","Aashif Sheikh",88,63
+"Sanjay Dutt","Asrani",89,63
+"Sanjay Dutt","Razak Khan",78,63
+"Sanjay Dutt","Shakti Kapoor",90,63
+"Sanjay Dutt","Bindu",91,63
+"Sanjay Dutt","Mahavir Shah",92,63
+"Sanjay Dutt","Mohan Joshi",93,63
+"Sanjay Dutt","Anil Dhawan",257,63
+"Govinda","Karisma Kapoor",82,81
+"Govinda","Pooja Batra",83,81
+"Govinda","Kader Khan",84,81
+"Govinda","Paresh Rawal",85,81
+"Govinda","Satish Kaushik",75,81
+"Govinda","Aruna Irani",86,81
+"Govinda","Anupam Kher",7,81
+"Govinda","Ashish Vidyarthi",87,81
+"Govinda","Aashif Sheikh",88,81
+"Govinda","Asrani",89,81
+"Govinda","Razak Khan",78,81
+"Govinda","Shakti Kapoor",90,81
+"Govinda","Bindu",91,81
+"Govinda","Mahavir Shah",92,81
+"Govinda","Mohan Joshi",93,81
+"Govinda","Anil Dhawan",257,81
+"Karisma Kapoor","Pooja Batra",83,82
+"Karisma Kapoor","Kader Khan",84,82
+"Karisma Kapoor","Paresh Rawal",85,82
+"Karisma Kapoor","Satish Kaushik",75,82
+"Karisma Kapoor","Aruna Irani",86,82
+"Karisma Kapoor","Anupam Kher",7,82
+"Karisma Kapoor","Ashish Vidyarthi",87,82
+"Karisma Kapoor","Aashif Sheikh",88,82
+"Karisma Kapoor","Asrani",89,82
+"Karisma Kapoor","Razak Khan",78,82
+"Karisma Kapoor","Shakti Kapoor",90,82
+"Karisma Kapoor","Bindu",91,82
+"Karisma Kapoor","Mahavir Shah",92,82
+"Karisma Kapoor","Mohan Joshi",93,82
+"Karisma Kapoor","Anil Dhawan",257,82
+"Pooja Batra","Kader Khan",84,83
+"Pooja Batra","Paresh Rawal",85,83
+"Pooja Batra","Satish Kaushik",75,83
+"Pooja Batra","Aruna Irani",86,83
+"Pooja Batra","Anupam Kher",7,83
+"Pooja Batra","Ashish Vidyarthi",87,83
+"Pooja Batra","Aashif Sheikh",88,83
+"Pooja Batra","Asrani",89,83
+"Pooja Batra","Razak Khan",78,83
+"Pooja Batra","Shakti Kapoor",90,83
+"Pooja Batra","Bindu",91,83
+"Pooja Batra","Mahavir Shah",92,83
+"Pooja Batra","Mohan Joshi",93,83
+"Pooja Batra","Anil Dhawan",257,83
+"Kader Khan","Paresh Rawal",85,84
+"Kader Khan","Satish Kaushik",75,84
+"Kader Khan","Aruna Irani",86,84
+"Kader Khan","Anupam Kher",7,84
+"Kader Khan","Ashish Vidyarthi",87,84
+"Kader Khan","Aashif Sheikh",88,84
+"Kader Khan","Asrani",89,84
+"Kader Khan","Razak Khan",78,84
+"Kader Khan","Shakti Kapoor",90,84
+"Kader Khan","Bindu",91,84
+"Kader Khan","Mahavir Shah",92,84
+"Kader Khan","Mohan Joshi",93,84
+"Kader Khan","Anil Dhawan",257,84
+"Paresh Rawal","Satish Kaushik",75,85
+"Paresh Rawal","Aruna Irani",86,85
+"Paresh Rawal","Anupam Kher",7,85
+"Paresh Rawal","Ashish Vidyarthi",87,85
+"Paresh Rawal","Aashif Sheikh",88,85
+"Paresh Rawal","Asrani",89,85
+"Paresh Rawal","Razak Khan",78,85
+"Paresh Rawal","Shakti Kapoor",90,85
+"Paresh Rawal","Bindu",91,85
+"Paresh Rawal","Mahavir Shah",92,85
+"Paresh Rawal","Mohan Joshi",93,85
+"Paresh Rawal","Anil Dhawan",257,85
+"Satish Kaushik","Aruna Irani",86,75
+"Satish Kaushik","Anupam Kher",7,75
+"Satish Kaushik","Ashish Vidyarthi",87,75
+"Satish Kaushik","Aashif Sheikh",88,75
+"Satish Kaushik","Asrani",89,75
+"Satish Kaushik","Razak Khan",78,75
+"Satish Kaushik","Shakti Kapoor",90,75
+"Satish Kaushik","Bindu",91,75
+"Satish Kaushik","Mahavir Shah",92,75
+"Satish Kaushik","Mohan Joshi",93,75
+"Satish Kaushik","Anil Dhawan",257,75
+"Aruna Irani","Anupam Kher",7,86
+"Aruna Irani","Ashish Vidyarthi",87,86
+"Aruna Irani","Aashif Sheikh",88,86
+"Aruna Irani","Asrani",89,86
+"Aruna Irani","Razak Khan",78,86
+"Aruna Irani","Shakti Kapoor",90,86
+"Aruna Irani","Bindu",91,86
+"Aruna Irani","Mahavir Shah",92,86
+"Aruna Irani","Mohan Joshi",93,86
+"Aruna Irani","Anil Dhawan",257,86
+"Anupam Kher","Ashish Vidyarthi",87,7
+"Anupam Kher","Aashif Sheikh",88,7
+"Anupam Kher","Asrani",89,7
+"Anupam Kher","Razak Khan",78,7
+"Anupam Kher","Shakti Kapoor",90,7
+"Anupam Kher","Bindu",91,7
+"Anupam Kher","Mahavir Shah",92,7
+"Anupam Kher","Mohan Joshi",93,7
+"Anupam Kher","Anil Dhawan",257,7
+"Ashish Vidyarthi","Aashif Sheikh",88,87
+"Ashish Vidyarthi","Asrani",89,87
+"Ashish Vidyarthi","Razak Khan",78,87
+"Ashish Vidyarthi","Shakti Kapoor",90,87
+"Ashish Vidyarthi","Bindu",91,87
+"Ashish Vidyarthi","Mahavir Shah",92,87
+"Ashish Vidyarthi","Mohan Joshi",93,87
+"Ashish Vidyarthi","Anil Dhawan",257,87
+"Aashif Sheikh","Asrani",89,88
+"Aashif Sheikh","Razak Khan",78,88
+"Aashif Sheikh","Shakti Kapoor",90,88
+"Aashif Sheikh","Bindu",91,88
+"Aashif Sheikh","Mahavir Shah",92,88
+"Aashif Sheikh","Mohan Joshi",93,88
+"Aashif Sheikh","Anil Dhawan",257,88
+"Asrani","Razak Khan",78,89
+"Asrani","Shakti Kapoor",90,89
+"Asrani","Bindu",91,89
+"Asrani","Mahavir Shah",92,89
+"Asrani","Mohan Joshi",93,89
+"Asrani","Anil Dhawan",257,89
+"Razak Khan","Shakti Kapoor",90,78
+"Razak Khan","Bindu",91,78
+"Razak Khan","Mahavir Shah",92,78
+"Razak Khan","Mohan Joshi",93,78
+"Razak Khan","Anil Dhawan",257,78
+"Shakti Kapoor","Bindu",91,90
+"Shakti Kapoor","Mahavir Shah",92,90
+"Shakti Kapoor","Mohan Joshi",93,90
+"Shakti Kapoor","Anil Dhawan",257,90
+"Bindu","Mahavir Shah",92,91
+"Bindu","Mohan Joshi",93,91
+"Bindu","Anil Dhawan",257,91
+"Mahavir Shah","Mohan Joshi",93,92
+"Mahavir Shah","Anil Dhawan",257,92
+"Mohan Joshi","Anil Dhawan",257,93
+"Madhuri Dixit","Salman Khan",94,46
+"Madhuri Dixit","Mohnish Bahl",95,46
+"Madhuri Dixit","Renuka Shahane",96,46
+"Madhuri Dixit","Anupam Kher",7,46
+"Madhuri Dixit","Reema Lagoo",67,46
+"Madhuri Dixit","Alok Nath",97,46
+"Madhuri Dixit","Bindu",91,46
+"Salman Khan","Mohnish Bahl",95,94
+"Salman Khan","Renuka Shahane",96,94
+"Salman Khan","Anupam Kher",7,94
+"Salman Khan","Reema Lagoo",67,94
+"Salman Khan","Alok Nath",97,94
+"Salman Khan","Bindu",91,94
+"Mohnish Bahl","Renuka Shahane",96,95
+"Mohnish Bahl","Anupam Kher",7,95
+"Mohnish Bahl","Reema Lagoo",67,95
+"Mohnish Bahl","Alok Nath",97,95
+"Mohnish Bahl","Bindu",91,95
+"Renuka Shahane","Anupam Kher",7,96
+"Renuka Shahane","Reema Lagoo",67,96
+"Renuka Shahane","Alok Nath",97,96
+"Renuka Shahane","Bindu",91,96
+"Anupam Kher","Reema Lagoo",67,7
+"Anupam Kher","Alok Nath",97,7
+"Anupam Kher","Bindu",91,7
+"Reema Lagoo","Alok Nath",97,67
+"Reema Lagoo","Bindu",91,67
+"Alok Nath","Bindu",91,97
+"Salman Khan","Akshay Kumar",98,94
+"Salman Khan","Preity Zinta",99,94
+"Salman Khan","Anupam Kher",7,94
+"Salman Khan","Aman Verma",100,94
+"Salman Khan","Javed Sheikh",101,94
+"Salman Khan","Soni Razdan",66,94
+"Salman Khan","Nawab Shah",258,94
+"Akshay Kumar","Preity Zinta",99,98
+"Akshay Kumar","Anupam Kher",7,98
+"Akshay Kumar","Aman Verma",100,98
+"Akshay Kumar","Javed Sheikh",101,98
+"Akshay Kumar","Soni Razdan",66,98
+"Akshay Kumar","Nawab Shah",258,98
+"Preity Zinta","Anupam Kher",7,99
+"Preity Zinta","Aman Verma",100,99
+"Preity Zinta","Javed Sheikh",101,99
+"Preity Zinta","Soni Razdan",66,99
+"Preity Zinta","Nawab Shah",258,99
+"Anupam Kher","Aman Verma",100,7
+"Anupam Kher","Javed Sheikh",101,7
+"Anupam Kher","Soni Razdan",66,7
+"Anupam Kher","Nawab Shah",258,7
+"Aman Verma","Javed Sheikh",101,100
+"Aman Verma","Soni Razdan",66,100
+"Aman Verma","Nawab Shah",258,100
+"Javed Sheikh","Soni Razdan",66,101
+"Javed Sheikh","Nawab Shah",258,101
+"Soni Razdan","Nawab Shah",258,66
+"Salman Khan","Karisma Kapoor",82,94
+"Salman Khan","Rambha",102,94
+"Salman Khan","Kader Khan",84,94
+"Salman Khan","Anupam Kher",7,94
+"Salman Khan","Shakti Kapoor",90,94
+"Salman Khan","Bindu",91,94
+"Salman Khan","Reema Lagoo",67,94
+"Salman Khan","Satish Shah",103,94
+"Salman Khan","Mukesh Rishi",76,94
+"Karisma Kapoor","Rambha",102,82
+"Karisma Kapoor","Kader Khan",84,82
+"Karisma Kapoor","Anupam Kher",7,82
+"Karisma Kapoor","Shakti Kapoor",90,82
+"Karisma Kapoor","Bindu",91,82
+"Karisma Kapoor","Reema Lagoo",67,82
+"Karisma Kapoor","Satish Shah",103,82
+"Karisma Kapoor","Mukesh Rishi",76,82
+"Rambha","Kader Khan",84,102
+"Rambha","Anupam Kher",7,102
+"Rambha","Shakti Kapoor",90,102
+"Rambha","Bindu",91,102
+"Rambha","Reema Lagoo",67,102
+"Rambha","Satish Shah",103,102
+"Rambha","Mukesh Rishi",76,102
+"Kader Khan","Anupam Kher",7,84
+"Kader Khan","Shakti Kapoor",90,84
+"Kader Khan","Bindu",91,84
+"Kader Khan","Reema Lagoo",67,84
+"Kader Khan","Satish Shah",103,84
+"Kader Khan","Mukesh Rishi",76,84
+"Anupam Kher","Shakti Kapoor",90,7
+"Anupam Kher","Bindu",91,7
+"Anupam Kher","Reema Lagoo",67,7
+"Anupam Kher","Satish Shah",103,7
+"Anupam Kher","Mukesh Rishi",76,7
+"Shakti Kapoor","Bindu",91,90
+"Shakti Kapoor","Reema Lagoo",67,90
+"Shakti Kapoor","Satish Shah",103,90
+"Shakti Kapoor","Mukesh Rishi",76,90
+"Bindu","Reema Lagoo",67,91
+"Bindu","Satish Shah",103,91
+"Bindu","Mukesh Rishi",76,91
+"Reema Lagoo","Satish Shah",103,67
+"Reema Lagoo","Mukesh Rishi",76,67
+"Satish Shah","Mukesh Rishi",76,103
+"Varun Dhawan","Jacqueline Fernandez",104,43
+"Varun Dhawan","Tapsee Pannu",42,43
+"Varun Dhawan","Rajpal Yadav",105,43
+"Varun Dhawan","Sachin Khedekar",106,43
+"Varun Dhawan","Anupam Kher",7,43
+"Varun Dhawan","Zakir Hussain",107,43
+"Varun Dhawan","Pavan Malhotra",259,43
+"Jacqueline Fernandez","Tapsee Pannu",42,104
+"Jacqueline Fernandez","Rajpal Yadav",105,104
+"Jacqueline Fernandez","Sachin Khedekar",106,104
+"Jacqueline Fernandez","Anupam Kher",7,104
+"Jacqueline Fernandez","Zakir Hussain",107,104
+"Jacqueline Fernandez","Pavan Malhotra",259,104
+"Tapsee Pannu","Rajpal Yadav",105,42
+"Tapsee Pannu","Sachin Khedekar",106,42
+"Tapsee Pannu","Anupam Kher",7,42
+"Tapsee Pannu","Zakir Hussain",107,42
+"Tapsee Pannu","Pavan Malhotra",259,42
+"Rajpal Yadav","Sachin Khedekar",106,105
+"Rajpal Yadav","Anupam Kher",7,105
+"Rajpal Yadav","Zakir Hussain",107,105
+"Rajpal Yadav","Pavan Malhotra",259,105
+"Sachin Khedekar","Anupam Kher",7,106
+"Sachin Khedekar","Zakir Hussain",107,106
+"Sachin Khedekar","Pavan Malhotra",259,106
+"Anupam Kher","Zakir Hussain",107,7
+"Anupam Kher","Pavan Malhotra",259,7
+"Zakir Hussain","Pavan Malhotra",259,107
+"Sanjay Dutt","Madhuri Dixit",46,63
+"Sanjay Dutt","Jackie Shroff",108,63
+"Sanjay Dutt","Anupam Kher",7,63
+"Sanjay Dutt","Rakhee Gulzar",109,63
+"Sanjay Dutt","Pramod Moutho",110,63
+"Sanjay Dutt","Ramya Krishnan",33,63
+"Sanjay Dutt","Sushmita Mukherjee",111,63
+"Sanjay Dutt","Neena Gupta",112,63
+"Sanjay Dutt","A.K. Hangal",260,63
+"Madhuri Dixit","Jackie Shroff",108,46
+"Madhuri Dixit","Anupam Kher",7,46
+"Madhuri Dixit","Rakhee Gulzar",109,46
+"Madhuri Dixit","Pramod Moutho",110,46
+"Madhuri Dixit","Ramya Krishnan",33,46
+"Madhuri Dixit","Sushmita Mukherjee",111,46
+"Madhuri Dixit","Neena Gupta",112,46
+"Madhuri Dixit","A.K. Hangal",260,46
+"Jackie Shroff","Anupam Kher",7,108
+"Jackie Shroff","Rakhee Gulzar",109,108
+"Jackie Shroff","Pramod Moutho",110,108
+"Jackie Shroff","Ramya Krishnan",33,108
+"Jackie Shroff","Sushmita Mukherjee",111,108
+"Jackie Shroff","Neena Gupta",112,108
+"Jackie Shroff","A.K. Hangal",260,108
+"Anupam Kher","Rakhee Gulzar",109,7
+"Anupam Kher","Pramod Moutho",110,7
+"Anupam Kher","Ramya Krishnan",33,7
+"Anupam Kher","Sushmita Mukherjee",111,7
+"Anupam Kher","Neena Gupta",112,7
+"Anupam Kher","A.K. Hangal",260,7
+"Rakhee Gulzar","Pramod Moutho",110,109
+"Rakhee Gulzar","Ramya Krishnan",33,109
+"Rakhee Gulzar","Sushmita Mukherjee",111,109
+"Rakhee Gulzar","Neena Gupta",112,109
+"Rakhee Gulzar","A.K. Hangal",260,109
+"Pramod Moutho","Ramya Krishnan",33,110
+"Pramod Moutho","Sushmita Mukherjee",111,110
+"Pramod Moutho","Neena Gupta",112,110
+"Pramod Moutho","A.K. Hangal",260,110
+"Ramya Krishnan","Sushmita Mukherjee",111,33
+"Ramya Krishnan","Neena Gupta",112,33
+"Ramya Krishnan","A.K. Hangal",260,33
+"Sushmita Mukherjee","Neena Gupta",112,111
+"Sushmita Mukherjee","A.K. Hangal",260,111
+"Neena Gupta","A.K. Hangal",260,112
+"Anupam Kher","Boman Irani",54,7
+"Anupam Kher","Parvin Dabas",113,7
+"Anupam Kher","Tara Sharma",114,7
+"Anupam Kher","Navin Nischol",115,7
+"Anupam Kher","Kiran Juneja",116,7
+"Anupam Kher","Ranvir Shorey",117,7
+"Anupam Kher","Vinod Nagpal",118,7
+"Anupam Kher","Vinay Pathak",119,7
+"Anupam Kher","Nitish Pandey",261,7
+"Boman Irani","Parvin Dabas",113,54
+"Boman Irani","Tara Sharma",114,54
+"Boman Irani","Navin Nischol",115,54
+"Boman Irani","Kiran Juneja",116,54
+"Boman Irani","Ranvir Shorey",117,54
+"Boman Irani","Vinod Nagpal",118,54
+"Boman Irani","Vinay Pathak",119,54
+"Boman Irani","Nitish Pandey",261,54
+"Parvin Dabas","Tara Sharma",114,113
+"Parvin Dabas","Navin Nischol",115,113
+"Parvin Dabas","Kiran Juneja",116,113
+"Parvin Dabas","Ranvir Shorey",117,113
+"Parvin Dabas","Vinod Nagpal",118,113
+"Parvin Dabas","Vinay Pathak",119,113
+"Parvin Dabas","Nitish Pandey",261,113
+"Tara Sharma","Navin Nischol",115,114
+"Tara Sharma","Kiran Juneja",116,114
+"Tara Sharma","Ranvir Shorey",117,114
+"Tara Sharma","Vinod Nagpal",118,114
+"Tara Sharma","Vinay Pathak",119,114
+"Tara Sharma","Nitish Pandey",261,114
+"Navin Nischol","Kiran Juneja",116,115
+"Navin Nischol","Ranvir Shorey",117,115
+"Navin Nischol","Vinod Nagpal",118,115
+"Navin Nischol","Vinay Pathak",119,115
+"Navin Nischol","Nitish Pandey",261,115
+"Kiran Juneja","Ranvir Shorey",117,116
+"Kiran Juneja","Vinod Nagpal",118,116
+"Kiran Juneja","Vinay Pathak",119,116
+"Kiran Juneja","Nitish Pandey",261,116
+"Ranvir Shorey","Vinod Nagpal",118,117
+"Ranvir Shorey","Vinay Pathak",119,117
+"Ranvir Shorey","Nitish Pandey",261,117
+"Vinod Nagpal","Vinay Pathak",119,118
+"Vinod Nagpal","Nitish Pandey",261,118
+"Vinay Pathak","Nitish Pandey",261,119
+"Shah Rukh Khan","Kajol",120,31
+"Shah Rukh Khan","Rani Mukerji",121,31
+"Shah Rukh Khan","Farida Jalal",122,31
+"Shah Rukh Khan","Reema Lagoo",67,31
+"Shah Rukh Khan","Salman Khan",94,31
+"Shah Rukh Khan","Archana Puran Singh",123,31
+"Shah Rukh Khan","Himani Shivpuri",79,31
+"Shah Rukh Khan","Johny Lever",124,31
+"Shah Rukh Khan","Anupam Kher",7,31
+"Shah Rukh Khan","Sana Saeed",262,31
+"Kajol","Rani Mukerji",121,120
+"Kajol","Farida Jalal",122,120
+"Kajol","Reema Lagoo",67,120
+"Kajol","Salman Khan",94,120
+"Kajol","Archana Puran Singh",123,120
+"Kajol","Himani Shivpuri",79,120
+"Kajol","Johny Lever",124,120
+"Kajol","Anupam Kher",7,120
+"Kajol","Sana Saeed",262,120
+"Rani Mukerji","Farida Jalal",122,121
+"Rani Mukerji","Reema Lagoo",67,121
+"Rani Mukerji","Salman Khan",94,121
+"Rani Mukerji","Archana Puran Singh",123,121
+"Rani Mukerji","Himani Shivpuri",79,121
+"Rani Mukerji","Johny Lever",124,121
+"Rani Mukerji","Anupam Kher",7,121
+"Rani Mukerji","Sana Saeed",262,121
+"Farida Jalal","Reema Lagoo",67,122
+"Farida Jalal","Salman Khan",94,122
+"Farida Jalal","Archana Puran Singh",123,122
+"Farida Jalal","Himani Shivpuri",79,122
+"Farida Jalal","Johny Lever",124,122
+"Farida Jalal","Anupam Kher",7,122
+"Farida Jalal","Sana Saeed",262,122
+"Reema Lagoo","Salman Khan",94,67
+"Reema Lagoo","Archana Puran Singh",123,67
+"Reema Lagoo","Himani Shivpuri",79,67
+"Reema Lagoo","Johny Lever",124,67
+"Reema Lagoo","Anupam Kher",7,67
+"Reema Lagoo","Sana Saeed",262,67
+"Salman Khan","Archana Puran Singh",123,94
+"Salman Khan","Himani Shivpuri",79,94
+"Salman Khan","Johny Lever",124,94
+"Salman Khan","Anupam Kher",7,94
+"Salman Khan","Sana Saeed",262,94
+"Archana Puran Singh","Himani Shivpuri",79,123
+"Archana Puran Singh","Johny Lever",124,123
+"Archana Puran Singh","Anupam Kher",7,123
+"Archana Puran Singh","Sana Saeed",262,123
+"Himani Shivpuri","Johny Lever",124,79
+"Himani Shivpuri","Anupam Kher",7,79
+"Himani Shivpuri","Sana Saeed",262,79
+"Johny Lever","Anupam Kher",7,124
+"Johny Lever","Sana Saeed",262,124
+"Anupam Kher","Sana Saeed",262,7
+"Preity Zinta","Saif Ali Khan",125,99
+"Preity Zinta","Anupam Kher",7,99
+"Preity Zinta","Farida Jalal",122,99
+"Preity Zinta","Chandrachur Singh",263,99
+"Saif Ali Khan","Anupam Kher",7,125
+"Saif Ali Khan","Farida Jalal",122,125
+"Saif Ali Khan","Chandrachur Singh",263,125
+"Anupam Kher","Farida Jalal",122,7
+"Anupam Kher","Chandrachur Singh",263,7
+"Farida Jalal","Chandrachur Singh",263,122
+"Tusshar Kapoor","Riteish Deshmukh",126,27
+"Tusshar Kapoor","Isha Koppikar",127,27
+"Tusshar Kapoor","Neha Dhupia",128,27
+"Tusshar Kapoor","Anupam Kher",7,27
+"Tusshar Kapoor","Jay Sean",264,27
+"Riteish Deshmukh","Isha Koppikar",127,126
+"Riteish Deshmukh","Neha Dhupia",128,126
+"Riteish Deshmukh","Anupam Kher",7,126
+"Riteish Deshmukh","Jay Sean",264,126
+"Isha Koppikar","Neha Dhupia",128,127
+"Isha Koppikar","Anupam Kher",7,127
+"Isha Koppikar","Jay Sean",264,127
+"Neha Dhupia","Anupam Kher",7,128
+"Neha Dhupia","Jay Sean",264,128
+"Anupam Kher","Jay Sean",264,7
+"Govinda","Mohnish Bahl",95,81
+"Govinda","Sharad Kapoor",129,81
+"Govinda","Satish Kaushik",75,81
+"Govinda","Anupam Kher",7,81
+"Govinda","Kiran Kumar",130,81
+"Govinda","Rambha",102,81
+"Govinda","Sushmita Sen",265,81
+"Mohnish Bahl","Sharad Kapoor",129,95
+"Mohnish Bahl","Satish Kaushik",75,95
+"Mohnish Bahl","Anupam Kher",7,95
+"Mohnish Bahl","Kiran Kumar",130,95
+"Mohnish Bahl","Rambha",102,95
+"Mohnish Bahl","Sushmita Sen",265,95
+"Sharad Kapoor","Satish Kaushik",75,129
+"Sharad Kapoor","Anupam Kher",7,129
+"Sharad Kapoor","Kiran Kumar",130,129
+"Sharad Kapoor","Rambha",102,129
+"Sharad Kapoor","Sushmita Sen",265,129
+"Satish Kaushik","Anupam Kher",7,75
+"Satish Kaushik","Kiran Kumar",130,75
+"Satish Kaushik","Rambha",102,75
+"Satish Kaushik","Sushmita Sen",265,75
+"Anupam Kher","Kiran Kumar",130,7
+"Anupam Kher","Rambha",102,7
+"Anupam Kher","Sushmita Sen",265,7
+"Kiran Kumar","Rambha",102,130
+"Kiran Kumar","Sushmita Sen",265,130
+"Rambha","Sushmita Sen",265,102
+"Amitabh Bachchan","Ajay Devgn",132,131
+"Amitabh Bachchan","Vidya Balan",133,131
+"Amitabh Bachchan","Shatrughan Sinha",134,131
+"Amitabh Bachchan","Sunny Deol",135,131
+"Amitabh Bachchan","Anil Kapoor",71,131
+"Amitabh Bachchan","Manoj Bajpayee",15,131
+"Amitabh Bachchan","Jackie Shroff",108,131
+"Amitabh Bachchan","Anupam Kher",7,131
+"Amitabh Bachchan","Deepti Naval",266,131
+"Ajay Devgn","Vidya Balan",133,132
+"Ajay Devgn","Shatrughan Sinha",134,132
+"Ajay Devgn","Sunny Deol",135,132
+"Ajay Devgn","Anil Kapoor",71,132
+"Ajay Devgn","Manoj Bajpayee",15,132
+"Ajay Devgn","Jackie Shroff",108,132
+"Ajay Devgn","Anupam Kher",7,132
+"Ajay Devgn","Deepti Naval",266,132
+"Vidya Balan","Shatrughan Sinha",134,133
+"Vidya Balan","Sunny Deol",135,133
+"Vidya Balan","Anil Kapoor",71,133
+"Vidya Balan","Manoj Bajpayee",15,133
+"Vidya Balan","Jackie Shroff",108,133
+"Vidya Balan","Anupam Kher",7,133
+"Vidya Balan","Deepti Naval",266,133
+"Shatrughan Sinha","Sunny Deol",135,134
+"Shatrughan Sinha","Anil Kapoor",71,134
+"Shatrughan Sinha","Manoj Bajpayee",15,134
+"Shatrughan Sinha","Jackie Shroff",108,134
+"Shatrughan Sinha","Anupam Kher",7,134
+"Shatrughan Sinha","Deepti Naval",266,134
+"Sunny Deol","Anil Kapoor",71,135
+"Sunny Deol","Manoj Bajpayee",15,135
+"Sunny Deol","Jackie Shroff",108,135
+"Sunny Deol","Anupam Kher",7,135
+"Sunny Deol","Deepti Naval",266,135
+"Anil Kapoor","Manoj Bajpayee",15,71
+"Anil Kapoor","Jackie Shroff",108,71
+"Anil Kapoor","Anupam Kher",7,71
+"Anil Kapoor","Deepti Naval",266,71
+"Manoj Bajpayee","Jackie Shroff",108,15
+"Manoj Bajpayee","Anupam Kher",7,15
+"Manoj Bajpayee","Deepti Naval",266,15
+"Jackie Shroff","Anupam Kher",7,108
+"Jackie Shroff","Deepti Naval",266,108
+"Anupam Kher","Deepti Naval",266,7
+"Tapsee Pannu","Akshay Kumar",98,42
+"Tapsee Pannu","Manoj Bajpayee",15,42
+"Tapsee Pannu","Prithviraj Sukumaran",136,42
+"Tapsee Pannu","Danny Denzongpa",137,42
+"Tapsee Pannu","Anupam Kher",7,42
+"Tapsee Pannu","Zakir Hussain",107,42
+"Tapsee Pannu","Virendra Saxenda",267,42
+"Akshay Kumar","Manoj Bajpayee",15,98
+"Akshay Kumar","Prithviraj Sukumaran",136,98
+"Akshay Kumar","Danny Denzongpa",137,98
+"Akshay Kumar","Anupam Kher",7,98
+"Akshay Kumar","Zakir Hussain",107,98
+"Akshay Kumar","Virendra Saxenda",267,98
+"Manoj Bajpayee","Prithviraj Sukumaran",136,15
+"Manoj Bajpayee","Danny Denzongpa",137,15
+"Manoj Bajpayee","Anupam Kher",7,15
+"Manoj Bajpayee","Zakir Hussain",107,15
+"Manoj Bajpayee","Virendra Saxenda",267,15
+"Prithviraj Sukumaran","Danny Denzongpa",137,136
+"Prithviraj Sukumaran","Anupam Kher",7,136
+"Prithviraj Sukumaran","Zakir Hussain",107,136
+"Prithviraj Sukumaran","Virendra Saxenda",267,136
+"Danny Denzongpa","Anupam Kher",7,137
+"Danny Denzongpa","Zakir Hussain",107,137
+"Danny Denzongpa","Virendra Saxenda",267,137
+"Anupam Kher","Zakir Hussain",107,7
+"Anupam Kher","Virendra Saxenda",267,7
+"Zakir Hussain","Virendra Saxenda",267,107
+"Shah Rukh Khan","Deepa Sahi",138,31
+"Shah Rukh Khan","Javed Jaffrey",139,31
+"Shah Rukh Khan","Anupam Kher",7,31
+"Shah Rukh Khan","Amrish Puri",140,31
+"Shah Rukh Khan","Tom Alter",69,31
+"Shah Rukh Khan","Tinnu Anand",141,31
+"Shah Rukh Khan","Sadashiv Amrapurkar",142,31
+"Shah Rukh Khan","Tiku Talsania",143,31
+"Shah Rukh Khan","Kader Khan",84,31
+"Deepa Sahi","Javed Jaffrey",139,138
+"Deepa Sahi","Anupam Kher",7,138
+"Deepa Sahi","Amrish Puri",140,138
+"Deepa Sahi","Tom Alter",69,138
+"Deepa Sahi","Tinnu Anand",141,138
+"Deepa Sahi","Sadashiv Amrapurkar",142,138
+"Deepa Sahi","Tiku Talsania",143,138
+"Deepa Sahi","Kader Khan",84,138
+"Javed Jaffrey","Anupam Kher",7,139
+"Javed Jaffrey","Amrish Puri",140,139
+"Javed Jaffrey","Tom Alter",69,139
+"Javed Jaffrey","Tinnu Anand",141,139
+"Javed Jaffrey","Sadashiv Amrapurkar",142,139
+"Javed Jaffrey","Tiku Talsania",143,139
+"Javed Jaffrey","Kader Khan",84,139
+"Anupam Kher","Amrish Puri",140,7
+"Anupam Kher","Tom Alter",69,7
+"Anupam Kher","Tinnu Anand",141,7
+"Anupam Kher","Sadashiv Amrapurkar",142,7
+"Anupam Kher","Tiku Talsania",143,7
+"Anupam Kher","Kader Khan",84,7
+"Amrish Puri","Tom Alter",69,140
+"Amrish Puri","Tinnu Anand",141,140
+"Amrish Puri","Sadashiv Amrapurkar",142,140
+"Amrish Puri","Tiku Talsania",143,140
+"Amrish Puri","Kader Khan",84,140
+"Tom Alter","Tinnu Anand",141,69
+"Tom Alter","Sadashiv Amrapurkar",142,69
+"Tom Alter","Tiku Talsania",143,69
+"Tom Alter","Kader Khan",84,69
+"Tinnu Anand","Sadashiv Amrapurkar",142,141
+"Tinnu Anand","Tiku Talsania",143,141
+"Tinnu Anand","Kader Khan",84,141
+"Sadashiv Amrapurkar","Tiku Talsania",143,142
+"Sadashiv Amrapurkar","Kader Khan",84,142
+"Tiku Talsania","Kader Khan",84,143
+"Anupam Kher","Esha Gupta",61,7
+"Anupam Kher","Kumud Mishra",19,7
+"Anupam Kher","Kashyap Bharbhaya",144,7
+"Anupam Kher","Anusmiritu Sarkar",145,7
+"Anupam Kher","Zakir Hussain",107,7
+"Anupam Kher","Rajesh Sharma",146,7
+"Anupam Kher","Murli Sharma",147,7
+"Anupam Kher","Ananth Narayan Mahadevan",148,7
+"Anupam Kher","Deepshikha",268,7
+"Esha Gupta","Kumud Mishra",19,61
+"Esha Gupta","Kashyap Bharbhaya",144,61
+"Esha Gupta","Anusmiritu Sarkar",145,61
+"Esha Gupta","Zakir Hussain",107,61
+"Esha Gupta","Rajesh Sharma",146,61
+"Esha Gupta","Murli Sharma",147,61
+"Esha Gupta","Ananth Narayan Mahadevan",148,61
+"Esha Gupta","Deepshikha",268,61
+"Kumud Mishra","Kashyap Bharbhaya",144,19
+"Kumud Mishra","Anusmiritu Sarkar",145,19
+"Kumud Mishra","Zakir Hussain",107,19
+"Kumud Mishra","Rajesh Sharma",146,19
+"Kumud Mishra","Murli Sharma",147,19
+"Kumud Mishra","Ananth Narayan Mahadevan",148,19
+"Kumud Mishra","Deepshikha",268,19
+"Kashyap Bharbhaya","Anusmiritu Sarkar",145,144
+"Kashyap Bharbhaya","Zakir Hussain",107,144
+"Kashyap Bharbhaya","Rajesh Sharma",146,144
+"Kashyap Bharbhaya","Murli Sharma",147,144
+"Kashyap Bharbhaya","Ananth Narayan Mahadevan",148,144
+"Kashyap Bharbhaya","Deepshikha",268,144
+"Anusmiritu Sarkar","Zakir Hussain",107,145
+"Anusmiritu Sarkar","Rajesh Sharma",146,145
+"Anusmiritu Sarkar","Murli Sharma",147,145
+"Anusmiritu Sarkar","Ananth Narayan Mahadevan",148,145
+"Anusmiritu Sarkar","Deepshikha",268,145
+"Zakir Hussain","Rajesh Sharma",146,107
+"Zakir Hussain","Murli Sharma",147,107
+"Zakir Hussain","Ananth Narayan Mahadevan",148,107
+"Zakir Hussain","Deepshikha",268,107
+"Rajesh Sharma","Murli Sharma",147,146
+"Rajesh Sharma","Ananth Narayan Mahadevan",148,146
+"Rajesh Sharma","Deepshikha",268,146
+"Murli Sharma","Ananth Narayan Mahadevan",148,147
+"Murli Sharma","Deepshikha",268,147
+"Ananth Narayan Mahadevan","Deepshikha",268,148
+"Shah Rukh Khan","Rani Mukerji",121,31
+"Shah Rukh Khan","Anupam Kher",7,31
+"Shah Rukh Khan","Dilip Prabhavalkar",149,31
+"Shah Rukh Khan","Amitabh Bachchan",131,31
+"Shah Rukh Khan","Juhi Chawla",150,31
+"Shah Rukh Khan","Nina Kulkarni",151,31
+"Shah Rukh Khan","Rajpal Yadav",105,31
+"Rani Mukerji","Anupam Kher",7,121
+"Rani Mukerji","Dilip Prabhavalkar",149,121
+"Rani Mukerji","Amitabh Bachchan",131,121
+"Rani Mukerji","Juhi Chawla",150,121
+"Rani Mukerji","Nina Kulkarni",151,121
+"Rani Mukerji","Rajpal Yadav",105,121
+"Anupam Kher","Dilip Prabhavalkar",149,7
+"Anupam Kher","Amitabh Bachchan",131,7
+"Anupam Kher","Juhi Chawla",150,7
+"Anupam Kher","Nina Kulkarni",151,7
+"Anupam Kher","Rajpal Yadav",105,7
+"Dilip Prabhavalkar","Amitabh Bachchan",131,149
+"Dilip Prabhavalkar","Juhi Chawla",150,149
+"Dilip Prabhavalkar","Nina Kulkarni",151,149
+"Dilip Prabhavalkar","Rajpal Yadav",105,149
+"Amitabh Bachchan","Juhi Chawla",150,131
+"Amitabh Bachchan","Nina Kulkarni",151,131
+"Amitabh Bachchan","Rajpal Yadav",105,131
+"Juhi Chawla","Nina Kulkarni",151,150
+"Juhi Chawla","Rajpal Yadav",105,150
+"Nina Kulkarni","Rajpal Yadav",105,151
+"Salman Khan","Sonam Kapoor",152,94
+"Salman Khan","Anupam Kher",7,94
+"Salman Khan","Neil Nitin Mukesh",153,94
+"Salman Khan","Sanjay Mishra",154,94
+"Salman Khan","Swara Bhaskar",155,94
+"Salman Khan","Deepak Dobriyal",156,94
+"Salman Khan","Arman Kohli",157,94
+"Salman Khan","Manoj Joshi",158,94
+"Salman Khan","Samaira Rao",159,94
+"Salman Khan","Karuna Pandey",160,94
+"Salman Khan","Sucheta Khanna",239,94
+"Sonam Kapoor","Anupam Kher",7,152
+"Sonam Kapoor","Neil Nitin Mukesh",153,152
+"Sonam Kapoor","Sanjay Mishra",154,152
+"Sonam Kapoor","Swara Bhaskar",155,152
+"Sonam Kapoor","Deepak Dobriyal",156,152
+"Sonam Kapoor","Arman Kohli",157,152
+"Sonam Kapoor","Manoj Joshi",158,152
+"Sonam Kapoor","Samaira Rao",159,152
+"Sonam Kapoor","Karuna Pandey",160,152
+"Sonam Kapoor","Sucheta Khanna",239,152
+"Anupam Kher","Neil Nitin Mukesh",153,7
+"Anupam Kher","Sanjay Mishra",154,7
+"Anupam Kher","Swara Bhaskar",155,7
+"Anupam Kher","Deepak Dobriyal",156,7
+"Anupam Kher","Arman Kohli",157,7
+"Anupam Kher","Manoj Joshi",158,7
+"Anupam Kher","Samaira Rao",159,7
+"Anupam Kher","Karuna Pandey",160,7
+"Anupam Kher","Sucheta Khanna",239,7
+"Neil Nitin Mukesh","Sanjay Mishra",154,153
+"Neil Nitin Mukesh","Swara Bhaskar",155,153
+"Neil Nitin Mukesh","Deepak Dobriyal",156,153
+"Neil Nitin Mukesh","Arman Kohli",157,153
+"Neil Nitin Mukesh","Manoj Joshi",158,153
+"Neil Nitin Mukesh","Samaira Rao",159,153
+"Neil Nitin Mukesh","Karuna Pandey",160,153
+"Neil Nitin Mukesh","Sucheta Khanna",239,153
+"Sanjay Mishra","Swara Bhaskar",155,154
+"Sanjay Mishra","Deepak Dobriyal",156,154
+"Sanjay Mishra","Arman Kohli",157,154
+"Sanjay Mishra","Manoj Joshi",158,154
+"Sanjay Mishra","Samaira Rao",159,154
+"Sanjay Mishra","Karuna Pandey",160,154
+"Sanjay Mishra","Sucheta Khanna",239,154
+"Swara Bhaskar","Deepak Dobriyal",156,155
+"Swara Bhaskar","Arman Kohli",157,155
+"Swara Bhaskar","Manoj Joshi",158,155
+"Swara Bhaskar","Samaira Rao",159,155
+"Swara Bhaskar","Karuna Pandey",160,155
+"Swara Bhaskar","Sucheta Khanna",239,155
+"Deepak Dobriyal","Arman Kohli",157,156
+"Deepak Dobriyal","Manoj Joshi",158,156
+"Deepak Dobriyal","Samaira Rao",159,156
+"Deepak Dobriyal","Karuna Pandey",160,156
+"Deepak Dobriyal","Sucheta Khanna",239,156
+"Arman Kohli","Manoj Joshi",158,157
+"Arman Kohli","Samaira Rao",159,157
+"Arman Kohli","Karuna Pandey",160,157
+"Arman Kohli","Sucheta Khanna",239,157
+"Manoj Joshi","Samaira Rao",159,158
+"Manoj Joshi","Karuna Pandey",160,158
+"Manoj Joshi","Sucheta Khanna",239,158
+"Samaira Rao","Karuna Pandey",160,159
+"Samaira Rao","Sucheta Khanna",239,159
+"Karuna Pandey","Sucheta Khanna",239,160
+"Aamir Khan","Siddharth",38,45
+"Aamir Khan","Atul Kulkarni",161,45
+"Aamir Khan","Sharman Joshi",162,45
+"Aamir Khan","Kunal Kapoor",163,45
+"Aamir Khan","Alice Patten",164,45
+"Aamir Khan","Soha Ali Khan",165,45
+"Aamir Khan","Waheeda Rehman",166,45
+"Aamir Khan","Kiron Kher",167,45
+"Aamir Khan","Om Puri",168,45
+"Aamir Khan","Anupam Kher",7,45
+"Aamir Khan","Madhavan",269,45
+"Siddharth","Atul Kulkarni",161,38
+"Siddharth","Sharman Joshi",162,38
+"Siddharth","Kunal Kapoor",163,38
+"Siddharth","Alice Patten",164,38
+"Siddharth","Soha Ali Khan",165,38
+"Siddharth","Waheeda Rehman",166,38
+"Siddharth","Kiron Kher",167,38
+"Siddharth","Om Puri",168,38
+"Siddharth","Anupam Kher",7,38
+"Siddharth","Madhavan",269,38
+"Atul Kulkarni","Sharman Joshi",162,161
+"Atul Kulkarni","Kunal Kapoor",163,161
+"Atul Kulkarni","Alice Patten",164,161
+"Atul Kulkarni","Soha Ali Khan",165,161
+"Atul Kulkarni","Waheeda Rehman",166,161
+"Atul Kulkarni","Kiron Kher",167,161
+"Atul Kulkarni","Om Puri",168,161
+"Atul Kulkarni","Anupam Kher",7,161
+"Atul Kulkarni","Madhavan",269,161
+"Sharman Joshi","Kunal Kapoor",163,162
+"Sharman Joshi","Alice Patten",164,162
+"Sharman Joshi","Soha Ali Khan",165,162
+"Sharman Joshi","Waheeda Rehman",166,162
+"Sharman Joshi","Kiron Kher",167,162
+"Sharman Joshi","Om Puri",168,162
+"Sharman Joshi","Anupam Kher",7,162
+"Sharman Joshi","Madhavan",269,162
+"Kunal Kapoor","Alice Patten",164,163
+"Kunal Kapoor","Soha Ali Khan",165,163
+"Kunal Kapoor","Waheeda Rehman",166,163
+"Kunal Kapoor","Kiron Kher",167,163
+"Kunal Kapoor","Om Puri",168,163
+"Kunal Kapoor","Anupam Kher",7,163
+"Kunal Kapoor","Madhavan",269,163
+"Alice Patten","Soha Ali Khan",165,164
+"Alice Patten","Waheeda Rehman",166,164
+"Alice Patten","Kiron Kher",167,164
+"Alice Patten","Om Puri",168,164
+"Alice Patten","Anupam Kher",7,164
+"Alice Patten","Madhavan",269,164
+"Soha Ali Khan","Waheeda Rehman",166,165
+"Soha Ali Khan","Kiron Kher",167,165
+"Soha Ali Khan","Om Puri",168,165
+"Soha Ali Khan","Anupam Kher",7,165
+"Soha Ali Khan","Madhavan",269,165
+"Waheeda Rehman","Kiron Kher",167,166
+"Waheeda Rehman","Om Puri",168,166
+"Waheeda Rehman","Anupam Kher",7,166
+"Waheeda Rehman","Madhavan",269,166
+"Kiron Kher","Om Puri",168,167
+"Kiron Kher","Anupam Kher",7,167
+"Kiron Kher","Madhavan",269,167
+"Om Puri","Anupam Kher",7,168
+"Om Puri","Madhavan",269,168
+"Anupam Kher","Madhavan",269,7
+"Bradley Cooper","Jennifer Lawrence",170,169
+"Bradley Cooper","Robert De Niro",171,169
+"Bradley Cooper","Jacki Weaver",172,169
+"Bradley Cooper","Chris Tucker",173,169
+"Bradley Cooper","Anupam Kher",7,169
+"Bradley Cooper","John Ortiz",174,169
+"Bradley Cooper","Shea Whigham",175,169
+"Bradley Cooper","Julia Stiles",176,169
+"Bradley Cooper","Paul Herman",270,169
+"Jennifer Lawrence","Robert De Niro",171,170
+"Jennifer Lawrence","Jacki Weaver",172,170
+"Jennifer Lawrence","Chris Tucker",173,170
+"Jennifer Lawrence","Anupam Kher",7,170
+"Jennifer Lawrence","John Ortiz",174,170
+"Jennifer Lawrence","Shea Whigham",175,170
+"Jennifer Lawrence","Julia Stiles",176,170
+"Jennifer Lawrence","Paul Herman",270,170
+"Robert De Niro","Jacki Weaver",172,171
+"Robert De Niro","Chris Tucker",173,171
+"Robert De Niro","Anupam Kher",7,171
+"Robert De Niro","John Ortiz",174,171
+"Robert De Niro","Shea Whigham",175,171
+"Robert De Niro","Julia Stiles",176,171
+"Robert De Niro","Paul Herman",270,171
+"Jacki Weaver","Chris Tucker",173,172
+"Jacki Weaver","Anupam Kher",7,172
+"Jacki Weaver","John Ortiz",174,172
+"Jacki Weaver","Shea Whigham",175,172
+"Jacki Weaver","Julia Stiles",176,172
+"Jacki Weaver","Paul Herman",270,172
+"Chris Tucker","Anupam Kher",7,173
+"Chris Tucker","John Ortiz",174,173
+"Chris Tucker","Shea Whigham",175,173
+"Chris Tucker","Julia Stiles",176,173
+"Chris Tucker","Paul Herman",270,173
+"Anupam Kher","John Ortiz",174,7
+"Anupam Kher","Shea Whigham",175,7
+"Anupam Kher","Julia Stiles",176,7
+"Anupam Kher","Paul Herman",270,7
+"John Ortiz","Shea Whigham",175,174
+"John Ortiz","Julia Stiles",176,174
+"John Ortiz","Paul Herman",270,174
+"Shea Whigham","Julia Stiles",176,175
+"Shea Whigham","Paul Herman",270,175
+"Julia Stiles","Paul Herman",270,176
+"Akshay Kumar","Manoj Bajpayee",15,98
+"Akshay Kumar","Anupam Kher",7,98
+"Akshay Kumar","Jimmy Shergill",9,98
+"Akshay Kumar","Kajal Aggarwal",177,98
+"Akshay Kumar","Divya Dutta",178,98
+"Akshay Kumar","Kharaj Mukherjee",179,98
+"Akshay Kumar","Rajesh Sharma",146,98
+"Akshay Kumar","Kishore Kadam",180,98
+"Akshay Kumar","Neeru Bajwa",181,98
+"Akshay Kumar","Deep Raj Rana",182,98
+"Akshay Kumar","Neetu Singh",271,98
+"Manoj Bajpayee","Anupam Kher",7,15
+"Manoj Bajpayee","Jimmy Shergill",9,15
+"Manoj Bajpayee","Kajal Aggarwal",177,15
+"Manoj Bajpayee","Divya Dutta",178,15
+"Manoj Bajpayee","Kharaj Mukherjee",179,15
+"Manoj Bajpayee","Rajesh Sharma",146,15
+"Manoj Bajpayee","Kishore Kadam",180,15
+"Manoj Bajpayee","Neeru Bajwa",181,15
+"Manoj Bajpayee","Deep Raj Rana",182,15
+"Manoj Bajpayee","Neetu Singh",271,15
+"Anupam Kher","Jimmy Shergill",9,7
+"Anupam Kher","Kajal Aggarwal",177,7
+"Anupam Kher","Divya Dutta",178,7
+"Anupam Kher","Kharaj Mukherjee",179,7
+"Anupam Kher","Rajesh Sharma",146,7
+"Anupam Kher","Kishore Kadam",180,7
+"Anupam Kher","Neeru Bajwa",181,7
+"Anupam Kher","Deep Raj Rana",182,7
+"Anupam Kher","Neetu Singh",271,7
+"Jimmy Shergill","Kajal Aggarwal",177,9
+"Jimmy Shergill","Divya Dutta",178,9
+"Jimmy Shergill","Kharaj Mukherjee",179,9
+"Jimmy Shergill","Rajesh Sharma",146,9
+"Jimmy Shergill","Kishore Kadam",180,9
+"Jimmy Shergill","Neeru Bajwa",181,9
+"Jimmy Shergill","Deep Raj Rana",182,9
+"Jimmy Shergill","Neetu Singh",271,9
+"Kajal Aggarwal","Divya Dutta",178,177
+"Kajal Aggarwal","Kharaj Mukherjee",179,177
+"Kajal Aggarwal","Rajesh Sharma",146,177
+"Kajal Aggarwal","Kishore Kadam",180,177
+"Kajal Aggarwal","Neeru Bajwa",181,177
+"Kajal Aggarwal","Deep Raj Rana",182,177
+"Kajal Aggarwal","Neetu Singh",271,177
+"Divya Dutta","Kharaj Mukherjee",179,178
+"Divya Dutta","Rajesh Sharma",146,178
+"Divya Dutta","Kishore Kadam",180,178
+"Divya Dutta","Neeru Bajwa",181,178
+"Divya Dutta","Deep Raj Rana",182,178
+"Divya Dutta","Neetu Singh",271,178
+"Kharaj Mukherjee","Rajesh Sharma",146,179
+"Kharaj Mukherjee","Kishore Kadam",180,179
+"Kharaj Mukherjee","Neeru Bajwa",181,179
+"Kharaj Mukherjee","Deep Raj Rana",182,179
+"Kharaj Mukherjee","Neetu Singh",271,179
+"Rajesh Sharma","Kishore Kadam",180,146
+"Rajesh Sharma","Neeru Bajwa",181,146
+"Rajesh Sharma","Deep Raj Rana",182,146
+"Rajesh Sharma","Neetu Singh",271,146
+"Kishore Kadam","Neeru Bajwa",181,180
+"Kishore Kadam","Deep Raj Rana",182,180
+"Kishore Kadam","Neetu Singh",271,180
+"Neeru Bajwa","Deep Raj Rana",182,181
+"Neeru Bajwa","Neetu Singh",271,181
+"Deep Raj Rana","Neetu Singh",271,182
+"Rekha","Randhir Kapoor",184,183
+"Rekha","Sharman Joshi",162,183
+"Rekha","Anupam Kher",7,183
+"Rekha","Shweta Kumar",185,183
+"Rekha","Varsha Usgaonkar",186,183
+"Rekha","Rajesh Kumar",187,183
+"Rekha","Shreya Narayan",272,183
+"Randhir Kapoor","Sharman Joshi",162,184
+"Randhir Kapoor","Anupam Kher",7,184
+"Randhir Kapoor","Shweta Kumar",185,184
+"Randhir Kapoor","Varsha Usgaonkar",186,184
+"Randhir Kapoor","Rajesh Kumar",187,184
+"Randhir Kapoor","Shreya Narayan",272,184
+"Sharman Joshi","Anupam Kher",7,162
+"Sharman Joshi","Shweta Kumar",185,162
+"Sharman Joshi","Varsha Usgaonkar",186,162
+"Sharman Joshi","Rajesh Kumar",187,162
+"Sharman Joshi","Shreya Narayan",272,162
+"Anupam Kher","Shweta Kumar",185,7
+"Anupam Kher","Varsha Usgaonkar",186,7
+"Anupam Kher","Rajesh Kumar",187,7
+"Anupam Kher","Shreya Narayan",272,7
+"Shweta Kumar","Varsha Usgaonkar",186,185
+"Shweta Kumar","Rajesh Kumar",187,185
+"Shweta Kumar","Shreya Narayan",272,185
+"Varsha Usgaonkar","Rajesh Kumar",187,186
+"Varsha Usgaonkar","Shreya Narayan",272,186
+"Rajesh Kumar","Shreya Narayan",272,187
+"Purav Bhandare","Anupam Kher",7,188
+"Purav Bhandare","Rahul Bose",189,188
+"Purav Bhandare","Victor Banerjee",190,188
+"Purav Bhandare","Ankush Dubey",191,188
+"Purav Bhandare","Rasika Dugal",192,188
+"Purav Bhandare","Rahul Khanna",193,188
+"Purav Bhandare","Sana Shaikh",194,188
+"Purav Bhandare","Dheirya Sonecha",195,188
+"Purav Bhandare","Fatima Sana Shaikh",196,188
+"Purav Bhandare","Sarika",229,188
+"Anupam Kher","Rahul Bose",189,7
+"Anupam Kher","Victor Banerjee",190,7
+"Anupam Kher","Ankush Dubey",191,7
+"Anupam Kher","Rasika Dugal",192,7
+"Anupam Kher","Rahul Khanna",193,7
+"Anupam Kher","Sana Shaikh",194,7
+"Anupam Kher","Dheirya Sonecha",195,7
+"Anupam Kher","Fatima Sana Shaikh",196,7
+"Anupam Kher","Sarika",229,7
+"Rahul Bose","Victor Banerjee",190,189
+"Rahul Bose","Ankush Dubey",191,189
+"Rahul Bose","Rasika Dugal",192,189
+"Rahul Bose","Rahul Khanna",193,189
+"Rahul Bose","Sana Shaikh",194,189
+"Rahul Bose","Dheirya Sonecha",195,189
+"Rahul Bose","Fatima Sana Shaikh",196,189
+"Rahul Bose","Sarika",229,189
+"Victor Banerjee","Ankush Dubey",191,190
+"Victor Banerjee","Rasika Dugal",192,190
+"Victor Banerjee","Rahul Khanna",193,190
+"Victor Banerjee","Sana Shaikh",194,190
+"Victor Banerjee","Dheirya Sonecha",195,190
+"Victor Banerjee","Fatima Sana Shaikh",196,190
+"Victor Banerjee","Sarika",229,190
+"Ankush Dubey","Rasika Dugal",192,191
+"Ankush Dubey","Rahul Khanna",193,191
+"Ankush Dubey","Sana Shaikh",194,191
+"Ankush Dubey","Dheirya Sonecha",195,191
+"Ankush Dubey","Fatima Sana Shaikh",196,191
+"Ankush Dubey","Sarika",229,191
+"Rasika Dugal","Rahul Khanna",193,192
+"Rasika Dugal","Sana Shaikh",194,192
+"Rasika Dugal","Dheirya Sonecha",195,192
+"Rasika Dugal","Fatima Sana Shaikh",196,192
+"Rasika Dugal","Sarika",229,192
+"Rahul Khanna","Sana Shaikh",194,193
+"Rahul Khanna","Dheirya Sonecha",195,193
+"Rahul Khanna","Fatima Sana Shaikh",196,193
+"Rahul Khanna","Sarika",229,193
+"Sana Shaikh","Dheirya Sonecha",195,194
+"Sana Shaikh","Fatima Sana Shaikh",196,194
+"Sana Shaikh","Sarika",229,194
+"Dheirya Sonecha","Fatima Sana Shaikh",196,195
+"Dheirya Sonecha","Sarika",229,195
+"Fatima Sana Shaikh","Sarika",229,196
+"Russell Peters","Anupam Kher",7,197
+"Russell Peters","Christina Cole",198,197
+"Russell Peters","Mishqah Parthiephal",199,197
+"Russell Peters","Hamza Haq",200,197
+"Russell Peters","Meren Reddy",201,197
+"Russell Peters","William Shatner",273,197
+"Anupam Kher","Christina Cole",198,7
+"Anupam Kher","Mishqah Parthiephal",199,7
+"Anupam Kher","Hamza Haq",200,7
+"Anupam Kher","Meren Reddy",201,7
+"Anupam Kher","William Shatner",273,7
+"Christina Cole","Mishqah Parthiephal",199,198
+"Christina Cole","Hamza Haq",200,198
+"Christina Cole","Meren Reddy",201,198
+"Christina Cole","William Shatner",273,198
+"Mishqah Parthiephal","Hamza Haq",200,199
+"Mishqah Parthiephal","Meren Reddy",201,199
+"Mishqah Parthiephal","William Shatner",273,199
+"Hamza Haq","Meren Reddy",201,200
+"Hamza Haq","William Shatner",273,200
+"Meren Reddy","William Shatner",273,201
+"Akshay Kumar","Annu Kapoor",202,98
+"Akshay Kumar","Piyush Mishra",203,98
+"Akshay Kumar","Lisa Haydon",204,98
+"Akshay Kumar","Anupam Kher",7,98
+"Annu Kapoor","Piyush Mishra",203,202
+"Annu Kapoor","Lisa Haydon",204,202
+"Annu Kapoor","Anupam Kher",7,202
+"Piyush Mishra","Lisa Haydon",204,203
+"Piyush Mishra","Anupam Kher",7,203
+"Lisa Haydon","Anupam Kher",7,204
+"Akshay Kumar","Bhumi Pednekar",205,98
+"Akshay Kumar","Divyendu Sharma",39,98
+"Akshay Kumar","Atul Srivastava",206,98
+"Akshay Kumar","Anupam Kher",7,98
+"Akshay Kumar","Ayesha Raza Mishra",207,98
+"Akshay Kumar","Mukesh S Bhatt",208,98
+"Akshay Kumar","Shubha Khote",209,98
+"Akshay Kumar","Sudhir Pandey",274,98
+"Bhumi Pednekar","Divyendu Sharma",39,205
+"Bhumi Pednekar","Atul Srivastava",206,205
+"Bhumi Pednekar","Anupam Kher",7,205
+"Bhumi Pednekar","Ayesha Raza Mishra",207,205
+"Bhumi Pednekar","Mukesh S Bhatt",208,205
+"Bhumi Pednekar","Shubha Khote",209,205
+"Bhumi Pednekar","Sudhir Pandey",274,205
+"Divyendu Sharma","Atul Srivastava",206,39
+"Divyendu Sharma","Anupam Kher",7,39
+"Divyendu Sharma","Ayesha Raza Mishra",207,39
+"Divyendu Sharma","Mukesh S Bhatt",208,39
+"Divyendu Sharma","Shubha Khote",209,39
+"Divyendu Sharma","Sudhir Pandey",274,39
+"Atul Srivastava","Anupam Kher",7,206
+"Atul Srivastava","Ayesha Raza Mishra",207,206
+"Atul Srivastava","Mukesh S Bhatt",208,206
+"Atul Srivastava","Shubha Khote",209,206
+"Atul Srivastava","Sudhir Pandey",274,206
+"Anupam Kher","Ayesha Raza Mishra",207,7
+"Anupam Kher","Mukesh S Bhatt",208,7
+"Anupam Kher","Shubha Khote",209,7
+"Anupam Kher","Sudhir Pandey",274,7
+"Ayesha Raza Mishra","Mukesh S Bhatt",208,207
+"Ayesha Raza Mishra","Shubha Khote",209,207
+"Ayesha Raza Mishra","Sudhir Pandey",274,207
+"Mukesh S Bhatt","Shubha Khote",209,208
+"Mukesh S Bhatt","Sudhir Pandey",274,208
+"Shubha Khote","Sudhir Pandey",274,209
+"Shahid Kapoor","Amrita Rao",211,210
+"Shahid Kapoor","Anupam Kher",7,210
+"Shahid Kapoor","Alok Nath",97,210
+"Shahid Kapoor","Seema Biswas",212,210
+"Shahid Kapoor","Samir Soni",213,210
+"Shahid Kapoor","Lata Sabharwal",214,210
+"Shahid Kapoor","Manoj Joshi",158,210
+"Shahid Kapoor","Dinesh Lamba",215,210
+"Shahid Kapoor","Amrita Prakash",275,210
+"Amrita Rao","Anupam Kher",7,211
+"Amrita Rao","Alok Nath",97,211
+"Amrita Rao","Seema Biswas",212,211
+"Amrita Rao","Samir Soni",213,211
+"Amrita Rao","Lata Sabharwal",214,211
+"Amrita Rao","Manoj Joshi",158,211
+"Amrita Rao","Dinesh Lamba",215,211
+"Amrita Rao","Amrita Prakash",275,211
+"Anupam Kher","Alok Nath",97,7
+"Anupam Kher","Seema Biswas",212,7
+"Anupam Kher","Samir Soni",213,7
+"Anupam Kher","Lata Sabharwal",214,7
+"Anupam Kher","Manoj Joshi",158,7
+"Anupam Kher","Dinesh Lamba",215,7
+"Anupam Kher","Amrita Prakash",275,7
+"Alok Nath","Seema Biswas",212,97
+"Alok Nath","Samir Soni",213,97
+"Alok Nath","Lata Sabharwal",214,97
+"Alok Nath","Manoj Joshi",158,97
+"Alok Nath","Dinesh Lamba",215,97
+"Alok Nath","Amrita Prakash",275,97
+"Seema Biswas","Samir Soni",213,212
+"Seema Biswas","Lata Sabharwal",214,212
+"Seema Biswas","Manoj Joshi",158,212
+"Seema Biswas","Dinesh Lamba",215,212
+"Seema Biswas","Amrita Prakash",275,212
+"Samir Soni","Lata Sabharwal",214,213
+"Samir Soni","Manoj Joshi",158,213
+"Samir Soni","Dinesh Lamba",215,213
+"Samir Soni","Amrita Prakash",275,213
+"Lata Sabharwal","Manoj Joshi",158,214
+"Lata Sabharwal","Dinesh Lamba",215,214
+"Lata Sabharwal","Amrita Prakash",275,214
+"Manoj Joshi","Dinesh Lamba",215,158
+"Manoj Joshi","Amrita Prakash",275,158
+"Dinesh Lamba","Amrita Prakash",275,215
+"Ranbir Kapoor","Konkona Sen Sharma",217,216
+"Ranbir Kapoor","Shruti Bapna",218,216
+"Ranbir Kapoor","Krutika Bolaki",219,216
+"Ranbir Kapoor","Namit Das",220,216
+"Ranbir Kapoor","Munir Kabani",221,216
+"Ranbir Kapoor","Mohsin Ali Khan",222,216
+"Ranbir Kapoor","Anupam Kher",7,216
+"Ranbir Kapoor","Rahul Khanna",193,216
+"Ranbir Kapoor","Kainaz Motivala",276,216
+"Konkona Sen Sharma","Shruti Bapna",218,217
+"Konkona Sen Sharma","Krutika Bolaki",219,217
+"Konkona Sen Sharma","Namit Das",220,217
+"Konkona Sen Sharma","Munir Kabani",221,217
+"Konkona Sen Sharma","Mohsin Ali Khan",222,217
+"Konkona Sen Sharma","Anupam Kher",7,217
+"Konkona Sen Sharma","Rahul Khanna",193,217
+"Konkona Sen Sharma","Kainaz Motivala",276,217
+"Shruti Bapna","Krutika Bolaki",219,218
+"Shruti Bapna","Namit Das",220,218
+"Shruti Bapna","Munir Kabani",221,218
+"Shruti Bapna","Mohsin Ali Khan",222,218
+"Shruti Bapna","Anupam Kher",7,218
+"Shruti Bapna","Rahul Khanna",193,218
+"Shruti Bapna","Kainaz Motivala",276,218
+"Krutika Bolaki","Namit Das",220,219
+"Krutika Bolaki","Munir Kabani",221,219
+"Krutika Bolaki","Mohsin Ali Khan",222,219
+"Krutika Bolaki","Anupam Kher",7,219
+"Krutika Bolaki","Rahul Khanna",193,219
+"Krutika Bolaki","Kainaz Motivala",276,219
+"Namit Das","Munir Kabani",221,220
+"Namit Das","Mohsin Ali Khan",222,220
+"Namit Das","Anupam Kher",7,220
+"Namit Das","Rahul Khanna",193,220
+"Namit Das","Kainaz Motivala",276,220
+"Munir Kabani","Mohsin Ali Khan",222,221
+"Munir Kabani","Anupam Kher",7,221
+"Munir Kabani","Rahul Khanna",193,221
+"Munir Kabani","Kainaz Motivala",276,221
+"Mohsin Ali Khan","Anupam Kher",7,222
+"Mohsin Ali Khan","Rahul Khanna",193,222
+"Mohsin Ali Khan","Kainaz Motivala",276,222
+"Anupam Kher","Rahul Khanna",193,7
+"Anupam Kher","Kainaz Motivala",276,7
+"Rahul Khanna","Kainaz Motivala",276,193
+"Anupam Kher","Atul Kulkarni",161,7
+"Anupam Kher","Aakash Pandey",223,7
+"Anupam Kher","Milind Gunaji",224,7
+"Anupam Kher","Perizaad Zorabian",225,7
+"Anupam Kher","Smiley Suri",226,7
+"Anupam Kher","Parvin Dabas",113,7
+"Anupam Kher","Rajit Kapoor",227,7
+"Anupam Kher","Purab Kohli",228,7
+"Anupam Kher","Rajpal Yadav",105,7
+"Anupam Kher","Sarika",229,7
+"Anupam Kher","Sayaji Shinde",230,7
+"Anupam Kher","Seema Biswas",212,7
+"Anupam Kher","Vijay Raaz",231,7
+"Anupam Kher","Ashwin Mushran",232,7
+"Anupam Kher","Veerendra Saxena",233,7
+"Anupam Kher","Siddhant Karnick",277,7
+"Atul Kulkarni","Aakash Pandey",223,161
+"Atul Kulkarni","Milind Gunaji",224,161
+"Atul Kulkarni","Perizaad Zorabian",225,161
+"Atul Kulkarni","Smiley Suri",226,161
+"Atul Kulkarni","Parvin Dabas",113,161
+"Atul Kulkarni","Rajit Kapoor",227,161
+"Atul Kulkarni","Purab Kohli",228,161
+"Atul Kulkarni","Rajpal Yadav",105,161
+"Atul Kulkarni","Sarika",229,161
+"Atul Kulkarni","Sayaji Shinde",230,161
+"Atul Kulkarni","Seema Biswas",212,161
+"Atul Kulkarni","Vijay Raaz",231,161
+"Atul Kulkarni","Ashwin Mushran",232,161
+"Atul Kulkarni","Veerendra Saxena",233,161
+"Atul Kulkarni","Siddhant Karnick",277,161
+"Aakash Pandey","Milind Gunaji",224,223
+"Aakash Pandey","Perizaad Zorabian",225,223
+"Aakash Pandey","Smiley Suri",226,223
+"Aakash Pandey","Parvin Dabas",113,223
+"Aakash Pandey","Rajit Kapoor",227,223
+"Aakash Pandey","Purab Kohli",228,223
+"Aakash Pandey","Rajpal Yadav",105,223
+"Aakash Pandey","Sarika",229,223
+"Aakash Pandey","Sayaji Shinde",230,223
+"Aakash Pandey","Seema Biswas",212,223
+"Aakash Pandey","Vijay Raaz",231,223
+"Aakash Pandey","Ashwin Mushran",232,223
+"Aakash Pandey","Veerendra Saxena",233,223
+"Aakash Pandey","Siddhant Karnick",277,223
+"Milind Gunaji","Perizaad Zorabian",225,224
+"Milind Gunaji","Smiley Suri",226,224
+"Milind Gunaji","Parvin Dabas",113,224
+"Milind Gunaji","Rajit Kapoor",227,224
+"Milind Gunaji","Purab Kohli",228,224
+"Milind Gunaji","Rajpal Yadav",105,224
+"Milind Gunaji","Sarika",229,224
+"Milind Gunaji","Sayaji Shinde",230,224
+"Milind Gunaji","Seema Biswas",212,224
+"Milind Gunaji","Vijay Raaz",231,224
+"Milind Gunaji","Ashwin Mushran",232,224
+"Milind Gunaji","Veerendra Saxena",233,224
+"Milind Gunaji","Siddhant Karnick",277,224
+"Perizaad Zorabian","Smiley Suri",226,225
+"Perizaad Zorabian","Parvin Dabas",113,225
+"Perizaad Zorabian","Rajit Kapoor",227,225
+"Perizaad Zorabian","Purab Kohli",228,225
+"Perizaad Zorabian","Rajpal Yadav",105,225
+"Perizaad Zorabian","Sarika",229,225
+"Perizaad Zorabian","Sayaji Shinde",230,225
+"Perizaad Zorabian","Seema Biswas",212,225
+"Perizaad Zorabian","Vijay Raaz",231,225
+"Perizaad Zorabian","Ashwin Mushran",232,225
+"Perizaad Zorabian","Veerendra Saxena",233,225
+"Perizaad Zorabian","Siddhant Karnick",277,225
+"Smiley Suri","Parvin Dabas",113,226
+"Smiley Suri","Rajit Kapoor",227,226
+"Smiley Suri","Purab Kohli",228,226
+"Smiley Suri","Rajpal Yadav",105,226
+"Smiley Suri","Sarika",229,226
+"Smiley Suri","Sayaji Shinde",230,226
+"Smiley Suri","Seema Biswas",212,226
+"Smiley Suri","Vijay Raaz",231,226
+"Smiley Suri","Ashwin Mushran",232,226
+"Smiley Suri","Veerendra Saxena",233,226
+"Smiley Suri","Siddhant Karnick",277,226
+"Parvin Dabas","Rajit Kapoor",227,113
+"Parvin Dabas","Purab Kohli",228,113
+"Parvin Dabas","Rajpal Yadav",105,113
+"Parvin Dabas","Sarika",229,113
+"Parvin Dabas","Sayaji Shinde",230,113
+"Parvin Dabas","Seema Biswas",212,113
+"Parvin Dabas","Vijay Raaz",231,113
+"Parvin Dabas","Ashwin Mushran",232,113
+"Parvin Dabas","Veerendra Saxena",233,113
+"Parvin Dabas","Siddhant Karnick",277,113
+"Rajit Kapoor","Purab Kohli",228,227
+"Rajit Kapoor","Rajpal Yadav",105,227
+"Rajit Kapoor","Sarika",229,227
+"Rajit Kapoor","Sayaji Shinde",230,227
+"Rajit Kapoor","Seema Biswas",212,227
+"Rajit Kapoor","Vijay Raaz",231,227
+"Rajit Kapoor","Ashwin Mushran",232,227
+"Rajit Kapoor","Veerendra Saxena",233,227
+"Rajit Kapoor","Siddhant Karnick",277,227
+"Purab Kohli","Rajpal Yadav",105,228
+"Purab Kohli","Sarika",229,228
+"Purab Kohli","Sayaji Shinde",230,228
+"Purab Kohli","Seema Biswas",212,228
+"Purab Kohli","Vijay Raaz",231,228
+"Purab Kohli","Ashwin Mushran",232,228
+"Purab Kohli","Veerendra Saxena",233,228
+"Purab Kohli","Siddhant Karnick",277,228
+"Rajpal Yadav","Sarika",229,105
+"Rajpal Yadav","Sayaji Shinde",230,105
+"Rajpal Yadav","Seema Biswas",212,105
+"Rajpal Yadav","Vijay Raaz",231,105
+"Rajpal Yadav","Ashwin Mushran",232,105
+"Rajpal Yadav","Veerendra Saxena",233,105
+"Rajpal Yadav","Siddhant Karnick",277,105
+"Sarika","Sayaji Shinde",230,229
+"Sarika","Seema Biswas",212,229
+"Sarika","Vijay Raaz",231,229
+"Sarika","Ashwin Mushran",232,229
+"Sarika","Veerendra Saxena",233,229
+"Sarika","Siddhant Karnick",277,229
+"Sayaji Shinde","Seema Biswas",212,230
+"Sayaji Shinde","Vijay Raaz",231,230
+"Sayaji Shinde","Ashwin Mushran",232,230
+"Sayaji Shinde","Veerendra Saxena",233,230
+"Sayaji Shinde","Siddhant Karnick",277,230
+"Seema Biswas","Vijay Raaz",231,212
+"Seema Biswas","Ashwin Mushran",232,212
+"Seema Biswas","Veerendra Saxena",233,212
+"Seema Biswas","Siddhant Karnick",277,212
+"Vijay Raaz","Ashwin Mushran",232,231
+"Vijay Raaz","Veerendra Saxena",233,231
+"Vijay Raaz","Siddhant Karnick",277,231
+"Ashwin Mushran","Veerendra Saxena",233,232
+"Ashwin Mushran","Siddhant Karnick",277,232
+"Veerendra Saxena","Siddhant Karnick",277,233
+"Dharmendra","Sunny Deol",135,234
+"Dharmendra","Bobby Deol",235,234
+"Dharmendra","Neha Sharma",236,234
+"Dharmendra","Kristina Akheeva",237,234
+"Dharmendra","Annu Kapoor",202,234
+"Dharmendra","Johnny Lever",238,234
+"Dharmendra","Sucheta Khanna",239,234
+"Dharmendra","Aidan Cook",240,234
+"Dharmendra","Anupam Kher",7,234
+"Sunny Deol","Bobby Deol",235,135
+"Sunny Deol","Neha Sharma",236,135
+"Sunny Deol","Kristina Akheeva",237,135
+"Sunny Deol","Annu Kapoor",202,135
+"Sunny Deol","Johnny Lever",238,135
+"Sunny Deol","Sucheta Khanna",239,135
+"Sunny Deol","Aidan Cook",240,135
+"Sunny Deol","Anupam Kher",7,135
+"Bobby Deol","Neha Sharma",236,235
+"Bobby Deol","Kristina Akheeva",237,235
+"Bobby Deol","Annu Kapoor",202,235
+"Bobby Deol","Johnny Lever",238,235
+"Bobby Deol","Sucheta Khanna",239,235
+"Bobby Deol","Aidan Cook",240,235
+"Bobby Deol","Anupam Kher",7,235
+"Neha Sharma","Kristina Akheeva",237,236
+"Neha Sharma","Annu Kapoor",202,236
+"Neha Sharma","Johnny Lever",238,236
+"Neha Sharma","Sucheta Khanna",239,236
+"Neha Sharma","Aidan Cook",240,236
+"Neha Sharma","Anupam Kher",7,236
+"Kristina Akheeva","Annu Kapoor",202,237
+"Kristina Akheeva","Johnny Lever",238,237
+"Kristina Akheeva","Sucheta Khanna",239,237
+"Kristina Akheeva","Aidan Cook",240,237
+"Kristina Akheeva","Anupam Kher",7,237
+"Annu Kapoor","Johnny Lever",238,202
+"Annu Kapoor","Sucheta Khanna",239,202
+"Annu Kapoor","Aidan Cook",240,202
+"Annu Kapoor","Anupam Kher",7,202
+"Johnny Lever","Sucheta Khanna",239,238
+"Johnny Lever","Aidan Cook",240,238
+"Johnny Lever","Anupam Kher",7,238
+"Sucheta Khanna","Aidan Cook",240,239
+"Sucheta Khanna","Anupam Kher",7,239
+"Aidan Cook","Anupam Kher",7,240
+"Darsheel Safary","Anupam Kher",7,241
+"Darsheel Safary","Manjari Fadnis",242,241
+"Darsheel Safary","Tinnu Anand",141,241
+"Darsheel Safary","Sheeba Chaddha",243,241
+"Darsheel Safary","S.M. Zaheer",244,241
+"Darsheel Safary","Aayam Mehta",245,241
+"Darsheel Safary","Gargi Datar",246,241
+"Darsheel Safary","Jai Vyas",278,241
+"Anupam Kher","Manjari Fadnis",242,7
+"Anupam Kher","Tinnu Anand",141,7
+"Anupam Kher","Sheeba Chaddha",243,7
+"Anupam Kher","S.M. Zaheer",244,7
+"Anupam Kher","Aayam Mehta",245,7
+"Anupam Kher","Gargi Datar",246,7
+"Anupam Kher","Jai Vyas",278,7
+"Manjari Fadnis","Tinnu Anand",141,242
+"Manjari Fadnis","Sheeba Chaddha",243,242
+"Manjari Fadnis","S.M. Zaheer",244,242
+"Manjari Fadnis","Aayam Mehta",245,242
+"Manjari Fadnis","Gargi Datar",246,242
+"Manjari Fadnis","Jai Vyas",278,242
+"Tinnu Anand","Sheeba Chaddha",243,141
+"Tinnu Anand","S.M. Zaheer",244,141
+"Tinnu Anand","Aayam Mehta",245,141
+"Tinnu Anand","Gargi Datar",246,141
+"Tinnu Anand","Jai Vyas",278,141
+"Sheeba Chaddha","S.M. Zaheer",244,243
+"Sheeba Chaddha","Aayam Mehta",245,243
+"Sheeba Chaddha","Gargi Datar",246,243
+"Sheeba Chaddha","Jai Vyas",278,243
+"S.M. Zaheer","Aayam Mehta",245,244
+"S.M. Zaheer","Gargi Datar",246,244
+"S.M. Zaheer","Jai Vyas",278,244
+"Aayam Mehta","Gargi Datar",246,245
+"Aayam Mehta","Jai Vyas",278,245
+"Gargi Datar","Jai Vyas",278,246

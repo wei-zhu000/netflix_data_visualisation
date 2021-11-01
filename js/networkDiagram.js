@@ -48,8 +48,8 @@ function drawNetworkDiagram(castName, animationDuration) {
         .force("charge", d3.forceManyBody().strength(-300))
         .force("center", d3.forceCenter(483 / 2, 450));
 
-    var linkPath = 'data/network/link/links_' + castName + '.csv';
-    var nodePath = 'data/network/node/nodes_' + castName + '.csv';
+    var linkPath = 'https://raw.githubusercontent.com/wei-zhu000/netflix_data_visualisation/master/data/network/link/links_' + castName + '.csv';
+    var nodePath = 'https://raw.githubusercontent.com/wei-zhu000/netflix_data_visualisation/master/data/network/node/nodes_' + castName + '.csv';
 
     d3.csv(linkPath).then(function (linkData) {
         linkLayer = nwSvg

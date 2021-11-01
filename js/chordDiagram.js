@@ -17,7 +17,7 @@ function initChordDiagram() {
 }
 
 function plot() {
-    d3.csv('data/country_matrix.csv', function (data) {
+    d3.csv('https://raw.githubusercontent.com/wei-zhu000/netflix_data_visualisation/master/data/country_matrix.csv', function (data) {
         //"United States","India","United Kingdom","Canada","France","Japan","Spain","South Korea","Germany","Mexico"
         list = [parseInt(data['United States']),
         parseInt(data['India']),

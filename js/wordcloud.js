@@ -22,7 +22,7 @@ function initWordCloud() {
 }
 
 function renderDropdown() {
-    d3.csv('data/genre.csv', function (data) {
+    d3.csv('https://raw.githubusercontent.com/wei-zhu000/netflix_data_visualisation/master/data/genre.csv', function (data) {
         d3.select('#wc-control')
             .append('button')
             .attr('class', 'btn-outline-sm')
@@ -35,7 +35,7 @@ function renderDropdown() {
 }
 
 function renderWordCloud(genre) {
-    d3.csv('data/word_frequency.csv', function (data) {
+    d3.csv('https://raw.githubusercontent.com/wei-zhu000/netflix_data_visualisation/master/data/word_frequency.csv', function (data) {
         var word_frequency;
         if (data.genre == genre) {
             word_frequency = { word: data.word, size: data.freq, genre: data.genre };
